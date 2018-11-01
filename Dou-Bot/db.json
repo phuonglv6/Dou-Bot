@@ -1,0 +1,164 @@
+{
+    "users":[
+        {
+           "userId":"000001",
+           "userName":"phuongle",
+           "fullName":"Le Van Phuong",
+           "birthday":"12/12/1979",
+           "cardId":"240631497",
+           "gender":"Male",
+           "email":"phuong.le@dounet",
+           "phone":"0975460910",
+           "team":"R&D Team",
+           "image_url":"http://localhost:3984/images/phuonglv.jpg",
+           "position":"ML Engineer",
+           "joinDate":"10/01/2017",
+           "workingYears":"1",
+           "annualVacations":"10",
+           "projects":
+               {
+                    "projectName":"ML",
+                    "projectDes":"Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.",
+                    "tasks":[
+                        {"Title":"implement text classfication","Task Description":"- Implement word2vec"},
+                        {"Title":"Implement Face Recognization App","Task Description":"- Implement Face Recognization"},
+                        {"Title":"implement Chabot App","Task Description":"- Implement Chabot"},
+                        {"Title":"implement CNN App","Task Description":"- Implement CNN App"}
+                   ]
+            }
+           
+        },
+        {
+            "userId":"000002",
+            "userName":"thuongtx",
+            "fullName":"Tran Xuan Thuong",
+            "birthday":"08/23/1984",
+            "cardId":"3434343343",
+            "gender":"Male",
+            "email":"thuong.le@dounet",
+            "phone":"0989xxxxxxx",
+            "team":"R&D Team",
+            "image_url":"https://localhost:3984/images/thuongtx.jpg",
+            "position":"R&D Manager",
+            "joinDate":"10/01/2016",
+            "workingYears":"2",
+            "annualVacations":"3",
+            "projects":
+                {
+                     "projectName":"ML",
+                     "projectDes":"Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.",
+                     "tasks":[
+                         {"Title":"implement text classfication","Task Description":"- Implement word2vec"},
+                         {"Title":"Implement Face Recognization App","Task Description":"- Implement Face Recognization"},
+                         {"Title":"implement Chabot App","Task Description":"- Implement Chabot"},
+                         {"Title":"implement CNN App","Task Description":"- Implement CNN App"}
+                     ]
+             }
+            
+         },
+         {
+            "userId":"000003",
+            "userName":"phuongpt",
+            "fullName":"Phung Thanh Phuong",
+            "birthday":"04/14/1988",
+            "cardId":"565656565656",
+            "gender":"Male",
+            "email":"phuong.thanh@dounet",
+            "phone":"0909xxxxxx",
+            "team":"SD Team",
+            "image_url":"http://localhost:3984/images/phuongpt.jpg",
+            "position":"Software Developer",
+            "joinDate":"07/04/2013",
+            "workingYears":"5",
+            "annualVacations":"4",
+            "projects":
+                {
+                     "projectName":"MoTo",
+                     "projectDes":"To passengers, Uber is essentially synonymous with taxis, and to drivers, it's basically a referral service. ..",
+                     "tasks":[
+                         {"Title":"Design UI/UX","Task Description":"- Design UI/UX"},
+                         {"Title":"Implement call driver function","Task Description":"- Implement call driver function"}
+                     ]
+             }
+         },
+         {
+            "userId":"000004",
+            "userName":"khiemnd",
+            "fullName":"Nguyen Duy Khiem",
+            "birthday":"04/14/1992",
+            "cardId":"565656565656",
+            "gender":"Male",
+            "email":"khiem.nguyen@dounet",
+            "phone":"0909xxxxxx",
+            "team":"ML Team",
+            "image_url":"http://localhost:3984/images/khiemnd.jpg",
+            "position":"ML Engineer",
+            "joinDate":"07/04/2014",
+            "workingYears":"4",
+            "annualVacations":"5",
+            "projects":
+                {
+                     "projectName":"Face Recognization",
+                     "projectDes":"Facial recognition is a biometric software application capable of uniquely identifying or verifying a person by comparing and analyzing patterns based on the person's facial contours",
+                     "tasks":[
+                         {"Title":"Design UI/UX","Task Description":"- Design UI/UX"},
+                         {"Title":"Implement call driver function","Task Description":"- Implement call driver function"}
+                     ]
+             }
+         },
+         {
+            "userId":"000005",
+            "userName":"dongpt",
+            "fullName":"Phan Thanh Dong",
+            "birthday":"04/14/1989",
+            "cardId":"565656565656",
+            "gender":"Male",
+            "email":"dong.pham@dounet",
+            "phone":"0909xxxxxx",
+            "team":"ML Team",
+            "image_url":"http://localhost:3984/images/dongpt.jpg",
+            "position":"ML Engineer",
+            "joinDate":"07/04/2018",
+            "workingYears":"1",
+            "annualVacations":"5",
+            "projects":
+                {
+                     "projectName":"Blueprint Chatbot",
+                     "projectDes":"Enterprises are embracing AI for automating human resources",
+                     "tasks":[
+                         {"Title":"Design UI/UX","Task Description":"- Design UI/UX"},
+                         {"Title":"Implement call driver function","Task Description":"- Implement call driver function"}
+                     ]
+             }
+         },
+         {
+            "userId":"000006",
+            "userName":"dongnk",
+            "fullName":"Nguyen Khang Dong",
+            "birthday":"04/14/1989",
+            "cardId":"565656565656",
+            "gender":"Male",
+            "email":"dong.pham@dounet",
+            "phone":"0909xxxxxx",
+            "team":"ML Team",
+            "image_url":"http://localhost:3984/images/dongnk.jpg",
+            "position":"Sofware Developer",
+            "joinDate":"07/04/2018",
+            "workingYears":"6",
+            "annualVacations":"5",
+            "projects":
+                {
+                     "projectName":"Technical Support",
+                     "projectDes":"Enterprises are embracing AI for automating human resources",
+                     "tasks":[
+                         {"Title":"Design UI/UX","Task Description":"- Design UI/UX"},
+                         {"Title":"Implement call driver function","Task Description":"- Implement call driver function"}
+                     ]
+             }
+         }
+
+
+
+    ]
+
+}

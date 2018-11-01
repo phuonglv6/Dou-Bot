@@ -1,0 +1,38 @@
+{
+  "name": "botbuilder-sample-multidialogs",
+  "version": "1.0.0",
+  "description": "Bot Builder Sample - MultiDialogs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
+  "bugs": {
+    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/BotBuilder-Samples.git"
+  },
+  "dependencies": {
+    "adaptivecards": "^1.0.0",
+    "apiai": "^2.0.5",
+    "axios": "^0.18.0",
+    "bluebird": "^3.4.7",
+    "botbuilder": "^3.13.1",
+    "botbuilder-azure": "^3.1.0",
+    "dotenv-extended": "^1.0.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.7",
+    "pug": "^2.0.3",
+    "restify": "^4.3.0",
+    "serve-favicon": "^2.5.0",
+    "uuid": "^3.2.1"
+  }
+}
