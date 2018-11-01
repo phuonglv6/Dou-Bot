@@ -1,0 +1,3174 @@
+{
+    "name": "EmployeeName",
+    "subLists": [
+        {
+            "canonicalForm": "ngocly",
+            "list": [
+                "Ly Van Minh Ngoc",
+                "Ngoc Ly",
+                "Ngoc"
+            ]
+        },
+        {
+            "canonicalForm": "kimthoa",
+            "list": [
+                "Dien Kim Thoa",
+                "Thoa Dien Kim",
+                "Thoa"
+            ]
+        },
+        {
+            "canonicalForm": "phuongnguyen",
+            "list": [
+                "Nguyen Duy Phuong",
+                "Phuong Nguyen",
+                "Phuong"
+            ]
+        },
+        {
+            "canonicalForm": "trieunguyen",
+            "list": [
+                "Nguyen Ho Hai Trieu",
+                "Trieu Nguyen",
+                "Trieu"
+            ]
+        },
+        {
+            "canonicalForm": "vinhvo",
+            "list": [
+                "Vo Thanh Vinh",
+                "Vinh Vo",
+                "Vinh"
+            ]
+        },
+        {
+            "canonicalForm": "jeachung",
+            "list": [
+                "Jae Hong Chung",
+                "Jae Hong Chung",
+                "Chung"
+            ]
+        },
+        {
+            "canonicalForm": "khanhnguyen",
+            "list": [
+                "Nguyen Van Khanh",
+                "Khanh Nguyen",
+                "Khanh"
+            ]
+        },
+        {
+            "canonicalForm": "hoangnguyen",
+            "list": [
+                "Nguyen Huu Hoang",
+                "Hoang Nguyen",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "dungnguyen",
+            "list": [
+                "Nguyen Minh Hoang Dung",
+                "Dung Nguyen",
+                "Dung"
+            ]
+        },
+        {
+            "canonicalForm": "phunguyen",
+            "list": [
+                "Nguyen Duy Phu",
+                "Phu Nguyen",
+                "Phu"
+            ]
+        },
+        {
+            "canonicalForm": "tinluong",
+            "list": [
+                "Luong Trung Tin",
+                "Tin Luong Trung",
+                "Tin"
+            ]
+        },
+        {
+            "canonicalForm": "tuannguyen",
+            "list": [
+                "Nguyen Ngoc Tuan",
+                "Tuan Nguyen",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "hoangpham",
+            "list": [
+                "Pham Minh Hoang",
+                "Hoang Pham",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "binhphan",
+            "list": [
+                "Phan Quoc Binh",
+                "Binh Phan",
+                "Binh"
+            ]
+        },
+        {
+            "canonicalForm": "myly",
+            "list": [
+                "Ly Thi Diem My",
+                "My Ly",
+                "My"
+            ]
+        },
+        {
+            "canonicalForm": "hoangtran",
+            "list": [
+                "Tran Van Hoang",
+                "Hoang Tran",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "namnguyen",
+            "list": [
+                "Nguyen Vu Nam",
+                "Nam Nguyen",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "lucduong",
+            "list": [
+                "Duong Tuan Luc",
+                "Luc Duong",
+                "Luc"
+            ]
+        },
+        {
+            "canonicalForm": "tuyentran",
+            "list": [
+                "Tran Thi Thanh Tuyen",
+                "Tuyen Tran",
+                "Tuyen"
+            ]
+        },
+        {
+            "canonicalForm": "huymai",
+            "list": [
+                "Mai Hieu Huy",
+                "Huy Mai",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "cuongle",
+            "list": [
+                "Le Dac Cuong",
+                "Cuong Le",
+                "Cuong"
+            ]
+        },
+        {
+            "canonicalForm": "hieuhoang",
+            "list": [
+                "Hoang Van Hieu",
+                "Hieu Hoang",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "kiettran",
+            "list": [
+                "Tran Anh Kiet",
+                "Anh Kiet Tran",
+                "Kiet"
+            ]
+        },
+        {
+            "canonicalForm": "tanpham",
+            "list": [
+                "Pham Khanh Tan",
+                "Tan Pham",
+                "Tan"
+            ]
+        },
+        {
+            "canonicalForm": "uyentri",
+            "list": [
+                "Tri Thi Uyen",
+                "Uyen Tri",
+                "Uyen"
+            ]
+        },
+        {
+            "canonicalForm": "marciem",
+            "list": [
+                "Marcie Mariscal",
+                "Marcie Mariscal",
+                "Mariscal"
+            ]
+        },
+        {
+            "canonicalForm": "phucnguyen",
+            "list": [
+                "Nguyen Le Thi Phuc",
+                "Phuc Nguyen",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "kieule",
+            "list": [
+                "Le Van Kieu",
+                "Kieu Le",
+                "Kieu"
+            ]
+        },
+        {
+            "canonicalForm": "truongduong",
+            "list": [
+                "Duong Quoc Truong",
+                "Truong Duong",
+                "Truong"
+            ]
+        },
+        {
+            "canonicalForm": "vungo",
+            "list": [
+                "Ngo Tran Huyen Vu",
+                "Vu Ngo",
+                "Vu"
+            ]
+        },
+        {
+            "canonicalForm": "anhhoang",
+            "list": [
+                "Hoang Thi Ngoc Anh",
+                "Anh Hoang",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "tungnguyen",
+            "list": [
+                "Nguyen Thanh Tung",
+                "Tung Nguyen",
+                "Tung"
+            ]
+        },
+        {
+            "canonicalForm": "khiemnguyen",
+            "list": [
+                "Nguyen Trong Khiem",
+                "Khiem Nguyen",
+                "Khiem"
+            ]
+        },
+        {
+            "canonicalForm": "hanhle",
+            "list": [
+                "Le Tien Hanh",
+                "Hanh Le",
+                "Hanh"
+            ]
+        },
+        {
+            "canonicalForm": "phongnguyen",
+            "list": [
+                "Nguyen Duy Phong",
+                "Phong Nguyen",
+                "Phong"
+            ]
+        },
+        {
+            "canonicalForm": "oanhnguyen",
+            "list": [
+                "Nguyen Thi Hoang Oanh",
+                "Oanh Nguyen ",
+                "Oanh"
+            ]
+        },
+        {
+            "canonicalForm": "nhutvo",
+            "list": [
+                "Vo Hoang Nhut",
+                "Nhut Vo",
+                "Nhut"
+            ]
+        },
+        {
+            "canonicalForm": "niemhuynh",
+            "list": [
+                "Huynh Kim Niem",
+                "Niem Huynh",
+                "Niem"
+            ]
+        },
+        {
+            "canonicalForm": "doannguyen",
+            "list": [
+                "Nguyen Van Doan",
+                "Doan Nguyen",
+                "Doan"
+            ]
+        },
+        {
+            "canonicalForm": "hangho",
+            "list": [
+                "Ho Tong Thuy Hang",
+                "Hang Ho",
+                "Hang"
+            ]
+        },
+        {
+            "canonicalForm": "jungkim",
+            "list": [
+                "Junghee Kim",
+                "Junghee Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "sonle",
+            "list": [
+                "Le Van Son",
+                "Son Le",
+                "Son"
+            ]
+        },
+        {
+            "canonicalForm": "lamnguyen",
+            "list": [
+                "Nguyen Dinh Lam",
+                "Lam Nguyen",
+                "Lam"
+            ]
+        },
+        {
+            "canonicalForm": "prabu",
+            "list": [
+                "Kumaran Prabu",
+                "Prabu Kumaran",
+                "Prabu"
+            ]
+        },
+        {
+            "canonicalForm": "ahmedshah",
+            "list": [
+                "Ahmed Shah",
+                "Ahmed Shah",
+                "Shah"
+            ]
+        },
+        {
+            "canonicalForm": "bonobron",
+            "list": [
+                "Bronson Bono",
+                "Bronson Bono",
+                "Bono"
+            ]
+        },
+        {
+            "canonicalForm": "yongtaelee",
+            "list": [
+                "Yongtae Lee",
+                "Yongtae Lee",
+                "Lee"
+            ]
+        },
+        {
+            "canonicalForm": "timhan",
+            "list": [
+                "Timothy Han",
+                "Timothy Han",
+                "Han"
+            ]
+        },
+        {
+            "canonicalForm": "thuynguyen",
+            "list": [
+                "Nguyen Thi Thuy",
+                "Thuy Nguyen",
+                "Thuy"
+            ]
+        },
+        {
+            "canonicalForm": "tunguyen",
+            "list": [
+                "Nguyen Van Tu",
+                "Tu Nguyen",
+                "Tu"
+            ]
+        },
+        {
+            "canonicalForm": "sangnguyen",
+            "list": [
+                "Nguyen Thi Sang",
+                "Sang Nguyen",
+                "Sang"
+            ]
+        },
+        {
+            "canonicalForm": "tutran",
+            "list": [
+                "Tran Thanh Tu",
+                "Tu Tran",
+                "Tu"
+            ]
+        },
+        {
+            "canonicalForm": "truongdo",
+            "list": [
+                "Do Xuan Truong",
+                "Truong Do",
+                "Truong"
+            ]
+        },
+        {
+            "canonicalForm": "minhpham",
+            "list": [
+                "Pham Hoang Minh",
+                "Minh Pham",
+                "Minh"
+            ]
+        },
+        {
+            "canonicalForm": "haoluong",
+            "list": [
+                "Luong Vi Hao",
+                "Hao Luong",
+                "Hao"
+            ]
+        },
+        {
+            "canonicalForm": "phucbui",
+            "list": [
+                "Bui Duy Phuc",
+                "Phuc Bui",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "anhle",
+            "list": [
+                "Le Duc Anh",
+                "Anh Le",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "longly",
+            "list": [
+                "L\u00fd Kh\u00e1nh Long",
+                "Long Ly",
+                "Long"
+            ]
+        },
+        {
+            "canonicalForm": "huyhoang",
+            "list": [
+                "Hoang Pham Huy",
+                "Huy Hoang",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "uttran",
+            "list": [
+                "Tran Thi Ut",
+                "Ut Tran",
+                "Ut"
+            ]
+        },
+        {
+            "canonicalForm": "hanhnguyen",
+            "list": [
+                "Nguyen Thi My Hanh",
+                "Hanh Nguyen",
+                "Hanh"
+            ]
+        },
+        {
+            "canonicalForm": "mypham",
+            "list": [
+                "Pham Ai My",
+                "My Pham",
+                "My"
+            ]
+        },
+        {
+            "canonicalForm": "jhshin",
+            "list": [
+                "Shin Jeong-Hoon",
+                "Shin Jeong-Hoon",
+                "Jeong-Hoon"
+            ]
+        },
+        {
+            "canonicalForm": "ngochuynh",
+            "list": [
+                "Huynh Nhu Ngoc",
+                "Ngoc Huynh",
+                "Ngoc"
+            ]
+        },
+        {
+            "canonicalForm": "ganeshkumar",
+            "list": [
+                "Sivabalasubramanian Ganesh Kumar",
+                "Ganesh Kumar",
+                "Kumar"
+            ]
+        },
+        {
+            "canonicalForm": "thinhhuynh",
+            "list": [
+                "Huynh Dang Thinh",
+                "Thinh Huynh",
+                "Thinh"
+            ]
+        },
+        {
+            "canonicalForm": "haihn",
+            "list": [
+                "Nguyen Huy Hai",
+                "Hai Huy Nguyen",
+                "Hai"
+            ]
+        },
+        {
+            "canonicalForm": "clairelee",
+            "list": [
+                "Claire Lee",
+                "Claire Lee",
+                "Lee"
+            ]
+        },
+        {
+            "canonicalForm": "ibak",
+            "list": [
+                "Il Min Bak",
+                "Il Min Bak",
+                "Bak"
+            ]
+        },
+        {
+            "canonicalForm": "estherroh",
+            "list": [
+                "Esther Roh",
+                "Esther Roh",
+                "Roh"
+            ]
+        },
+        {
+            "canonicalForm": "youngbae",
+            "list": [
+                "Youngchool Bae",
+                "Youngchool Bae",
+                "Bae"
+            ]
+        },
+        {
+            "canonicalForm": "timothy",
+            "list": [
+                "Timothy Lim",
+                "Timothy Lim",
+                "Lim"
+            ]
+        },
+        {
+            "canonicalForm": "haivu",
+            "list": [
+                "Vu Le Hai",
+                "Hai Vu",
+                "Hai"
+            ]
+        },
+        {
+            "canonicalForm": "tienle",
+            "list": [
+                "Le Trung Tien",
+                "Tien Le",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "tiennguyen",
+            "list": [
+                "Nguyen My Tien",
+                "Tien Nguyen",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "trucpham",
+            "list": [
+                "Pham Trung Truc",
+                "Truc Pham",
+                "Truc"
+            ]
+        },
+        {
+            "canonicalForm": "claire",
+            "list": [
+                "Claire Won",
+                "Claire Won",
+                "Won"
+            ]
+        },
+        {
+            "canonicalForm": "haiho",
+            "list": [
+                "Ho Doan Phuong Hai",
+                "Hai Ho",
+                "Hai"
+            ]
+        },
+        {
+            "canonicalForm": "jayyu",
+            "list": [
+                "Jay Yu",
+                "Jay Yu",
+                "Yu"
+            ]
+        },
+        {
+            "canonicalForm": "kris",
+            "list": [
+                "Kris Park",
+                "Kris Park",
+                "Park"
+            ]
+        },
+        {
+            "canonicalForm": "johnso",
+            "list": [
+                "John So",
+                "John So",
+                "So"
+            ]
+        },
+        {
+            "canonicalForm": "jasonkim",
+            "list": [
+                "Tae Yun Kim",
+                "Tae Yun Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "philipsuh",
+            "list": [
+                "Philip Suh",
+                "Philip Suh",
+                "Suh"
+            ]
+        },
+        {
+            "canonicalForm": "johnbae",
+            "list": [
+                "John Bae",
+                "John Bae",
+                "Bae"
+            ]
+        },
+        {
+            "canonicalForm": "mike",
+            "list": [
+                "Mike Chang",
+                "Mike Chang",
+                "Chang"
+            ]
+        },
+        {
+            "canonicalForm": "ashleykim",
+            "list": [
+                "Ashley Kim",
+                "Ashley Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "oanhtran",
+            "list": [
+                "Tran Thi Oanh",
+                "Oanh Tran",
+                "Oanh"
+            ]
+        },
+        {
+            "canonicalForm": "nghianguyen",
+            "list": [
+                "Nguyen Trung Nghia",
+                "Nghia Nguyen",
+                "Nghia"
+            ]
+        },
+        {
+            "canonicalForm": "tuantran",
+            "list": [
+                "Tran Le Anh Tuan",
+                "Tuan Tran",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "lypham",
+            "list": [
+                "Pham Vu Mai Ly",
+                "Ly Pham",
+                "Ly"
+            ]
+        },
+        {
+            "canonicalForm": "namnnguyen",
+            "list": [
+                "Nguyen Ngoc Nam",
+                "Nam Ngoc Nguyen",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "kyongsokji",
+            "list": [
+                "KyongSok Ji",
+                "KyongSok Ji",
+                "Ji"
+            ]
+        },
+        {
+            "canonicalForm": "truongbui",
+            "list": [
+                "Bui Nhat Truong",
+                "Truong Bui",
+                "Truong"
+            ]
+        },
+        {
+            "canonicalForm": "antruong",
+            "list": [
+                "Truong Hoang An",
+                "An Truong",
+                "An"
+            ]
+        },
+        {
+            "canonicalForm": "thaodoan",
+            "list": [
+                "Doan Thi Thu Thao",
+                "Thao Doan",
+                "Thao"
+            ]
+        },
+        {
+            "canonicalForm": "loido",
+            "list": [
+                "Do Ngoc Loi",
+                "Loi Do",
+                "Loi"
+            ]
+        },
+        {
+            "canonicalForm": "namdoan",
+            "list": [
+                "Doan Minh Nam",
+                "Nam Doan",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "chautruong",
+            "list": [
+                "Truong Vu Anh Chau",
+                "Chau Truong",
+                "Chau"
+            ]
+        },
+        {
+            "canonicalForm": "hatn",
+            "list": [
+                "Nguyen Thai Ha",
+                "Ha Nguyen",
+                "Ha"
+            ]
+        },
+        {
+            "canonicalForm": "tuyettran",
+            "list": [
+                "Tran Anh Tuyet",
+                "Tuyet Tran",
+                "Tuyet"
+            ]
+        },
+        {
+            "canonicalForm": "jaeyoo",
+            "list": [
+                "Jae Hyun Yoo",
+                "Jae Hyun Yoo",
+                "Yoo"
+            ]
+        },
+        {
+            "canonicalForm": "hienle",
+            "list": [
+                "Le Thi Thu Hien",
+                "Hien Le",
+                "Hien"
+            ]
+        },
+        {
+            "canonicalForm": "chrischoi",
+            "list": [
+                "Lena Kim",
+                "Lena Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "phongvo",
+            "list": [
+                "Thanh Phong Vo",
+                "Phong Vo",
+                "Vo"
+            ]
+        },
+        {
+            "canonicalForm": "phucdo",
+            "list": [
+                "Do Hong Phuc",
+                "Phuc Do",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "karayoon",
+            "list": [
+                "Kara Yoon",
+                "Kara Yoon",
+                "Yoon"
+            ]
+        },
+        {
+            "canonicalForm": "gloriachan",
+            "list": [
+                "Gloria Chan",
+                "Gloria Chan",
+                "Chan"
+            ]
+        },
+        {
+            "canonicalForm": "kimle",
+            "list": [
+                "Le Thi Hoang Kim",
+                "Kim Le",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "briansong",
+            "list": [
+                "Brian Song",
+                "Brian Song",
+                "Song"
+            ]
+        },
+        {
+            "canonicalForm": "anhha",
+            "list": [
+                "Ha Thi Hong Anh",
+                "Anh Ha",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "quannguyen",
+            "list": [
+                "Nguyen Minh Quan",
+                "Quan Nguyen",
+                "Quan"
+            ]
+        },
+        {
+            "canonicalForm": "hoangmn",
+            "list": [
+                "Nguyen Minh Hoang",
+                "Hoang Minh Nguyen",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "jihoonkim",
+            "list": [
+                "Ji Hoon Kim",
+                "Ji Hoon Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "hungpham",
+            "list": [
+                "Pham Kien Hung",
+                "Hung Pham",
+                "Hung"
+            ]
+        },
+        {
+            "canonicalForm": "nhanhuynh",
+            "list": [
+                "Huynh Tran Hieu Nhan",
+                "Nhan Huynh",
+                "Nhan"
+            ]
+        },
+        {
+            "canonicalForm": "tuyentruong",
+            "list": [
+                "Truong Thi Thanh Tuyen",
+                "Tuyen Truong",
+                "Tuyen"
+            ]
+        },
+        {
+            "canonicalForm": "jspark",
+            "list": [
+                "Ji Sung Park",
+                "Ji Sung Park",
+                "Park"
+            ]
+        },
+        {
+            "canonicalForm": "hoanguyen",
+            "list": [
+                "Nguyen Anh Hoa",
+                "Hoa Nguyen",
+                "Hoa"
+            ]
+        },
+        {
+            "canonicalForm": "tienduong",
+            "list": [
+                "Duong Duy Tien",
+                "Tien Duong",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "giangnguyen",
+            "list": [
+                "Nguyen Thi Tra Giang",
+                "Giang Nguyen",
+                "Giang"
+            ]
+        },
+        {
+            "canonicalForm": "mahesh",
+            "list": [
+                "Subramanian Mahesh",
+                "Mahesh Subramanian",
+                "Mahesh"
+            ]
+        },
+        {
+            "canonicalForm": "dieple",
+            "list": [
+                "Le Hoang Thi Ngoc Diep",
+                "Diep Le",
+                "Diep"
+            ]
+        },
+        {
+            "canonicalForm": "yoonmin",
+            "list": [
+                "Min Yoon",
+                "Min Yoon",
+                "Yoon"
+            ]
+        },
+        {
+            "canonicalForm": "tinho",
+            "list": [
+                "Ho Duy Tin",
+                "Tin Ho",
+                "Tin"
+            ]
+        },
+        {
+            "canonicalForm": "giangpham",
+            "list": [
+                "Pham Thi Huong Giang",
+                "Giang Pham",
+                "Giang"
+            ]
+        },
+        {
+            "canonicalForm": "toanht",
+            "list": [
+                "Tran Huu Toan",
+                "Toan Huu Tran",
+                "Toan"
+            ]
+        },
+        {
+            "canonicalForm": "dungdao",
+            "list": [
+                "Dao Anh Dung",
+                "Dung Dao",
+                "Dung"
+            ]
+        },
+        {
+            "canonicalForm": "kieuvo",
+            "list": [
+                "Vo Thi Xuan Kieu",
+                "Kieu Vo ",
+                "Kieu"
+            ]
+        },
+        {
+            "canonicalForm": "quyenthan",
+            "list": [
+                "Than Mau Quyen",
+                "Quyen Than",
+                "Quyen"
+            ]
+        },
+        {
+            "canonicalForm": "pandi",
+            "list": [
+                "Ravindran Shunmuga Raja Pandi",
+                "Shunmuga Raja Pandi",
+                "Pandi"
+            ]
+        },
+        {
+            "canonicalForm": "phuocphan",
+            "list": [
+                "Phan Huu Phuoc",
+                "Phuoc Phan",
+                "Phuoc"
+            ]
+        },
+        {
+            "canonicalForm": "trangtruong",
+            "list": [
+                "Truong Ngoc Thu Trang",
+                "Trang Truong",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "dungdo",
+            "list": [
+                "Do Thuy Kim Dung",
+                "Dung Do",
+                "Dung"
+            ]
+        },
+        {
+            "canonicalForm": "syrgb14",
+            "list": [
+                "Youn-Sub Shin",
+                "Youn-Sub Shin",
+                "Shin"
+            ]
+        },
+        {
+            "canonicalForm": "baohuynh",
+            "list": [
+                "Huynh Kim Bao",
+                "Bao Huynh",
+                "Bao"
+            ]
+        },
+        {
+            "canonicalForm": "hautran",
+            "list": [
+                "Tran Thanh Hau",
+                "Hau Tran",
+                "Hau"
+            ]
+        },
+        {
+            "canonicalForm": "anhtn",
+            "list": [
+                "Nguyen Tuan Anh",
+                "Anh Nguyen Tuan",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "khoanguyen",
+            "list": [
+                "Nguyen Duc Khoa",
+                "Khoa Nguyen",
+                "Khoa"
+            ]
+        },
+        {
+            "canonicalForm": "tinnguyen",
+            "list": [
+                "Nguyen Trung Tin",
+                "Tin Nguyen",
+                "Tin"
+            ]
+        },
+        {
+            "canonicalForm": "lamtran",
+            "list": [
+                "Tran Hoang Lam",
+                "Lam Tran",
+                "Lam"
+            ]
+        },
+        {
+            "canonicalForm": "thuytran",
+            "list": [
+                "Tran Thi Thu Thuy",
+                "Thuy Tran",
+                "Thuy"
+            ]
+        },
+        {
+            "canonicalForm": "dongguk",
+            "list": [
+                "Dong Guk Ye",
+                "Dong Guk Ye",
+                "Ye"
+            ]
+        },
+        {
+            "canonicalForm": "giangvo",
+            "list": [
+                "Vo Thi Huong Giang",
+                "Giang Vo",
+                "Giang"
+            ]
+        },
+        {
+            "canonicalForm": "huongnguyen",
+            "list": [
+                "Nguyen Ngoc Khanh Huong",
+                "Huong Nguyen",
+                "Huong"
+            ]
+        },
+        {
+            "canonicalForm": "chloelim",
+            "list": [
+                "Chloe Lim",
+                "Chloe Lim",
+                "Lim"
+            ]
+        },
+        {
+            "canonicalForm": "tientran",
+            "list": [
+                "Tran Thi Thuy Tien",
+                "Tien Tran",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "thuydoan",
+            "list": [
+                "Doan Vu Thuy",
+                "Thuy Doan",
+                "Thuy"
+            ]
+        },
+        {
+            "canonicalForm": "diemhuynh",
+            "list": [
+                "Huynh Thi Kieu Diem",
+                "Diem Huynh",
+                "Diem"
+            ]
+        },
+        {
+            "canonicalForm": "luantran",
+            "list": [
+                "Tran Chanh Luan",
+                "Luan Tran",
+                "Luan"
+            ]
+        },
+        {
+            "canonicalForm": "farrahkim",
+            "list": [
+                "Farrah Kim",
+                "Farrah Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "datpham",
+            "list": [
+                "Pham Ba Dat",
+                "Dat Pham",
+                "Dat"
+            ]
+        },
+        {
+            "canonicalForm": "quanvo",
+            "list": [
+                "Vo Trung Quan",
+                "Quan Vo",
+                "Quan"
+            ]
+        },
+        {
+            "canonicalForm": "hieutn",
+            "list": [
+                "Nguyen Trung Hieu",
+                "Hieu Nguyen",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "thanhphung",
+            "list": [
+                "Phung Quang Thanh",
+                "Thanh Phung",
+                "Thanh"
+            ]
+        },
+        {
+            "canonicalForm": "gongwon",
+            "list": [
+                "Gongwon An",
+                "Gongwon An",
+                "An"
+            ]
+        },
+        {
+            "canonicalForm": "truongle",
+            "list": [
+                "Truong Le",
+                "Truong Le",
+                "Le"
+            ]
+        },
+        {
+            "canonicalForm": "jenniferk",
+            "list": [
+                "Jennifer Kim",
+                "Jennifer Kim ",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "viettrinh",
+            "list": [
+                "Trinh Hoang Xuan Viet",
+                "Viet Trinh",
+                "Viet"
+            ]
+        },
+        {
+            "canonicalForm": "nhatdoan",
+            "list": [
+                "Doan Si Nhat",
+                "Nhat Doan",
+                "Nhat"
+            ]
+        },
+        {
+            "canonicalForm": "nhatphan",
+            "list": [
+                "Phan Dinh Minh Nhat",
+                "Nhat Phan",
+                "Nhat"
+            ]
+        },
+        {
+            "canonicalForm": "cuongphan",
+            "list": [
+                "Phan Huy Cuong",
+                "Cuong Phan",
+                "Cuong"
+            ]
+        },
+        {
+            "canonicalForm": "kyluong",
+            "list": [
+                "Luong Cong Ky",
+                "Ky Luong",
+                "Ky"
+            ]
+        },
+        {
+            "canonicalForm": "loinguyen",
+            "list": [
+                "Nguyen Duc Loi",
+                "Loi Nguyen",
+                "Loi"
+            ]
+        },
+        {
+            "canonicalForm": "vule",
+            "list": [
+                "Le Thanh Vu",
+                "Vu Le",
+                "Vu"
+            ]
+        },
+        {
+            "canonicalForm": "laura",
+            "list": [
+                "Laura Kim",
+                "Laura Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "quynhnguyen",
+            "list": [
+                "Nguyen Thi Ngoc Quynh",
+                "Quynh Nguyen",
+                "Quynh"
+            ]
+        },
+        {
+            "canonicalForm": "thanhnham",
+            "list": [
+                "Nham Xuan Thanh",
+                "Thanh Nham",
+                "Thanh"
+            ]
+        },
+        {
+            "canonicalForm": "nhuttrinh",
+            "list": [
+                "Trinh Minh Nhut",
+                "Nhut Trinh",
+                "Nhut"
+            ]
+        },
+        {
+            "canonicalForm": "manhnguyen",
+            "list": [
+                "Nguyen Dinh Manh",
+                "Manh Nguyen",
+                "Manh"
+            ]
+        },
+        {
+            "canonicalForm": "taskholder",
+            "list": [
+                "Task Holder",
+                "Task Holder",
+                "Holder"
+            ]
+        },
+        {
+            "canonicalForm": "phuongthn",
+            "list": [
+                "Nguyen Thi Hong Phuong",
+                "Phuong Thi Hong Nguyen",
+                "Phuong"
+            ]
+        },
+        {
+            "canonicalForm": "khoivu",
+            "list": [
+                "Vu Minh Khoi",
+                "Khoi Vu",
+                "Khoi"
+            ]
+        },
+        {
+            "canonicalForm": "hkpark",
+            "list": [
+                "Hee Kab Park",
+                "Hee Kab Park",
+                "Park"
+            ]
+        },
+        {
+            "canonicalForm": "amyhan",
+            "list": [
+                "Amy Han",
+                "Amy Han",
+                "Han"
+            ]
+        },
+        {
+            "canonicalForm": "phulam",
+            "list": [
+                "Lam Ton Phu",
+                "Phu Lam",
+                "Phu"
+            ]
+        },
+        {
+            "canonicalForm": "ngocnguyen",
+            "list": [
+                "Nguyen Duc Chau Ngoc",
+                "Ngoc Nguyen",
+                "Ngoc"
+            ]
+        },
+        {
+            "canonicalForm": "eunzo",
+            "list": [
+                "Eunzo Lee",
+                "Eunzo Lee",
+                "Lee"
+            ]
+        },
+        {
+            "canonicalForm": "hongchung",
+            "list": [
+                "Hong Chung",
+                "Hong Chung",
+                "Chung"
+            ]
+        },
+        {
+            "canonicalForm": "joohanlee",
+            "list": [
+                "JooHan Lee",
+                "Joohan Lee",
+                "Lee"
+            ]
+        },
+        {
+            "canonicalForm": "yoonseokchoi",
+            "list": [
+                "Yoonseok Choi",
+                "Yoonseok Choi",
+                "Choi"
+            ]
+        },
+        {
+            "canonicalForm": "tuanchau",
+            "list": [
+                "Chau Quoc Tuan",
+                "Tuan Chau",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "huyle",
+            "list": [
+                "Le Quang Huy",
+                "Huy Le",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "toannguyen",
+            "list": [
+                "Nguyen Dinh Toan",
+                "Toan Nguyen",
+                "Toan"
+            ]
+        },
+        {
+            "canonicalForm": "namtran",
+            "list": [
+                "Tran Thanh Nam",
+                "Nam Tran",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "khangdong",
+            "list": [
+                "Dong Van An Khang",
+                "Khang Dong",
+                "Khang"
+            ]
+        },
+        {
+            "canonicalForm": "jaegyoung",
+            "list": [
+                "Jae Gyoung Son",
+                "Jae Gyoung Son ",
+                "Son"
+            ]
+        },
+        {
+            "canonicalForm": "duongnguyen",
+            "list": [
+                "Nguyen Ngoc Duong",
+                "Duong Nguyen",
+                "Duong"
+            ]
+        },
+        {
+            "canonicalForm": "vanngo",
+            "list": [
+                "Ngo Gia Van",
+                "Van Ngo",
+                "Van"
+            ]
+        },
+        {
+            "canonicalForm": "tungtn",
+            "list": [
+                "Nguyen Thanh Tung",
+                "Tung Nguyen",
+                "Tung"
+            ]
+        },
+        {
+            "canonicalForm": "ducnguyen",
+            "list": [
+                "Nguyen Quang Duc",
+                "Duc Nguyen",
+                "Duc"
+            ]
+        },
+        {
+            "canonicalForm": "doanqn",
+            "list": [
+                "Nguyen Quoc Doan",
+                "Doan Quoc Nguyen",
+                "Doan"
+            ]
+        },
+        {
+            "canonicalForm": "trungnguyen",
+            "list": [
+                "Nguyen Phuoc Trung",
+                "Trung Nguyen",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "trieudhn",
+            "list": [
+                "Nguyen Dinh Hai Trieu",
+                "Trieu Dinh Hai Nguyen",
+                "Trieu"
+            ]
+        },
+        {
+            "canonicalForm": "taido",
+            "list": [
+                "Do Phuoc Tai",
+                "Tai Do",
+                "Tai"
+            ]
+        },
+        {
+            "canonicalForm": "quocvn",
+            "list": [
+                "Nguyen Van Quoc",
+                "Quoc Nguyen",
+                "Quoc"
+            ]
+        },
+        {
+            "canonicalForm": "thainguyen",
+            "list": [
+                "Nguyen Hong Thai",
+                "Thai Nguyen",
+                "Thai"
+            ]
+        },
+        {
+            "canonicalForm": "peterkim",
+            "list": [
+                "Peter Kim",
+                "Peter Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "tinhuynh",
+            "list": [
+                "Huynh Trung Tin",
+                "Tin Huynh",
+                "Tin"
+            ]
+        },
+        {
+            "canonicalForm": "phuongle",
+            "list": [
+                "Le Van Phuong",
+                "Phuong Le",
+                "Phuong"
+            ]
+        },
+        {
+            "canonicalForm": "SaeidK",
+            "list": [
+                "Saeed Khademi",
+                "Saeed Khademi",
+                "Khademi"
+            ]
+        },
+        {
+            "canonicalForm": "nghiadn",
+            "list": [
+                "Nguyen Duy Nghia",
+                "Nghia Duy Nguyen",
+                "Nghia"
+            ]
+        },
+        {
+            "canonicalForm": "thanhchiem",
+            "list": [
+                "Chiem Nhat Thanh",
+                "Thanh Chiem",
+                "Thanh"
+            ]
+        },
+        {
+            "canonicalForm": "hientran",
+            "list": [
+                "Tran Duc Hien",
+                "Hien Tran",
+                "Hien"
+            ]
+        },
+        {
+            "canonicalForm": "toantran",
+            "list": [
+                "Tran Bao Toan",
+                "Toan Tran",
+                "Toan"
+            ]
+        },
+        {
+            "canonicalForm": "bacnguyen",
+            "list": [
+                "Nguyen Duc Bac",
+                "Bac Nguyen",
+                "Bac"
+            ]
+        },
+        {
+            "canonicalForm": "igkoo",
+            "list": [
+                "ILGU KOO",
+                "ILGU KOO",
+                "KOO"
+            ]
+        },
+        {
+            "canonicalForm": "chaehoon",
+            "list": [
+                "Chae Hoon Lim",
+                "Chae Hoon Lim ",
+                "Lim"
+            ]
+        },
+        {
+            "canonicalForm": "Seungho",
+            "list": [
+                "Seungho Park",
+                "Seungho Park",
+                "Park"
+            ]
+        },
+        {
+            "canonicalForm": "anhkhuong",
+            "list": [
+                "Khuong Ngoc Anh",
+                "Anh Khuong",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "gogo0912",
+            "list": [
+                "Young-Kwon Kim",
+                "Young-Kwon Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "yejin",
+            "list": [
+                "Yejin Jun",
+                "Yejin Jun",
+                "Jun"
+            ]
+        },
+        {
+            "canonicalForm": "truonghd",
+            "list": [
+                "Do Huy Truong",
+                "Truong Huy Do",
+                "Truong"
+            ]
+        },
+        {
+            "canonicalForm": "hieuvu",
+            "list": [
+                "Vu Thanh Hieu",
+                "Hieu Vu",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "tuancao",
+            "list": [
+                "Cao Ngoc Tuan",
+                "Tuan Cao",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "nammai",
+            "list": [
+                "Mai Quoc Nam",
+                "Nam Mai ",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "phudn",
+            "list": [
+                "Nguyen Duy Phu",
+                "Phu Duy Nguyen",
+                "Phu"
+            ]
+        },
+        {
+            "canonicalForm": "trihn",
+            "list": [
+                "Nguyen Huu Tri",
+                "Tri Huu Nguyen",
+                "Tri"
+            ]
+        },
+        {
+            "canonicalForm": "dongphan",
+            "list": [
+                "Phan Thanh Dong",
+                "Dong Phan",
+                "Dong"
+            ]
+        },
+        {
+            "canonicalForm": "nhathp",
+            "list": [
+                "Phan Hong Nhat",
+                "Nhat Hong Phan",
+                "Nhat"
+            ]
+        },
+        {
+            "canonicalForm": "duytn",
+            "list": [
+                "Nguyen Tran Duy",
+                "Duy Nguyen",
+                "Duy"
+            ]
+        },
+        {
+            "canonicalForm": "khangvo",
+            "list": [
+                "Vo Tri Khang",
+                "Khang Vo",
+                "Khang"
+            ]
+        },
+        {
+            "canonicalForm": "duyknp",
+            "list": [
+                "Pham Nguyen Khac Duy",
+                "Duy Pham",
+                "Duy"
+            ]
+        },
+        {
+            "canonicalForm": "danhvo",
+            "list": [
+                "Vo Cong Danh",
+                "Danh Vo",
+                "Danh"
+            ]
+        },
+        {
+            "canonicalForm": "phuongtctbn",
+            "list": [
+                "Nguyen Tran Cao Thi Bich Phuong",
+                "Phuong Tran Cao Thi Bich Nguyen",
+                "Phuong"
+            ]
+        },
+        {
+            "canonicalForm": "thyquach",
+            "list": [
+                "Quach Ngoc Thy",
+                "Thy Quach",
+                "Thy"
+            ]
+        },
+        {
+            "canonicalForm": "tinpham",
+            "list": [
+                "Pham Le Viet Tin",
+                "Tin Pham",
+                "Tin"
+            ]
+        },
+        {
+            "canonicalForm": "hungvu",
+            "list": [
+                "Vu Khanh Hung",
+                "Hung Vu",
+                "Hung"
+            ]
+        },
+        {
+            "canonicalForm": "giapham",
+            "list": [
+                "Pham Luat Gia",
+                "Gia Pham",
+                "Gia"
+            ]
+        },
+        {
+            "canonicalForm": "nhanle",
+            "list": [
+                "Le Hoang Nhan",
+                "Nhan Le",
+                "Nhan"
+            ]
+        },
+        {
+            "canonicalForm": "chido",
+            "list": [
+                "Do Thi Kim Chi",
+                "Chi Do",
+                "Chi"
+            ]
+        },
+        {
+            "canonicalForm": "vyduong",
+            "list": [
+                "Duong Nhat Vy",
+                "Vy Duong",
+                "Vy"
+            ]
+        },
+        {
+            "canonicalForm": "staradmin",
+            "list": [
+                "Star Cluster Admin",
+                "Star Cluster Admin",
+                "Admin"
+            ]
+        },
+        {
+            "canonicalForm": "toanln",
+            "list": [
+                "Nguyen Le Toan",
+                "Toan Le Nguyen",
+                "Toan"
+            ]
+        },
+        {
+            "canonicalForm": "huongto",
+            "list": [
+                "To Thi Huong",
+                "Huong To",
+                "Huong"
+            ]
+        },
+        {
+            "canonicalForm": "trangttn",
+            "list": [
+                "Nguyen Thi Thuy Trang",
+                "Trang Thi Thuy Nguyen",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "trangntt",
+            "list": [
+                "Nguyen Thuy Thao Trang",
+                "Trang Thuy Thao Nguyen",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "locphan",
+            "list": [
+                "Phan Huu Loc",
+                "Loc Phan",
+                "Loc"
+            ]
+        },
+        {
+            "canonicalForm": "joseph",
+            "list": [
+                "Joseph Min",
+                "Joseph Min",
+                "Min"
+            ]
+        },
+        {
+            "canonicalForm": "truongnguyen",
+            "list": [
+                "Nguyen Cong Truong",
+                "Truong Nguyen",
+                "Truong"
+            ]
+        },
+        {
+            "canonicalForm": "kanikumar",
+            "list": [
+                "Chellapandi Kani Kumar",
+                "Kani Kumar",
+                "Kumar"
+            ]
+        },
+        {
+            "canonicalForm": "thuongtran",
+            "list": [
+                "Tran Xuan Thuong",
+                "Thuong Tran",
+                "Thuong"
+            ]
+        },
+        {
+            "canonicalForm": "dungphan",
+            "list": [
+                "Phan Quoc Dung",
+                "Dung Phan",
+                "Dung"
+            ]
+        },
+        {
+            "canonicalForm": "khoaduong",
+            "list": [
+                "Duong Minh Khoa",
+                "Khoa Duong",
+                "Khoa"
+            ]
+        },
+        {
+            "canonicalForm": "minhdo",
+            "list": [
+                "Do Anh Minh",
+                "Minh Do",
+                "Minh"
+            ]
+        },
+        {
+            "canonicalForm": "marokang",
+            "list": [
+                "Maro Kang",
+                "Maro Kang",
+                "Kang"
+            ]
+        },
+        {
+            "canonicalForm": "vihuynh",
+            "list": [
+                "Huynh Cong Vi",
+                "Vi Huynh",
+                "Vi"
+            ]
+        },
+        {
+            "canonicalForm": "alexbang",
+            "list": [
+                "Alex Bang",
+                "Alex Bang",
+                "Bang"
+            ]
+        },
+        {
+            "canonicalForm": "phuchn",
+            "list": [
+                "Nguyen Huu Phuc",
+                "Phuc Huu Nguyen",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "thuctran",
+            "list": [
+                "Tran Tri Thuc",
+                "Thuc Tran",
+                "Thuc"
+            ]
+        },
+        {
+            "canonicalForm": "kimbui",
+            "list": [
+                "Bui Hoang Kim",
+                "Kim Bui",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "duongduong",
+            "list": [
+                "Duong Trung Duong",
+                "Duong Duong",
+                "Duong"
+            ]
+        },
+        {
+            "canonicalForm": "anhdang",
+            "list": [
+                "Dang Thi Lan Anh",
+                "Anh Dang",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "joykim",
+            "list": [
+                "Joy Kim",
+                "Joy Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "vyai",
+            "list": [
+                "Ai Vy",
+                "Vy Ai",
+                "Vy"
+            ]
+        },
+        {
+            "canonicalForm": "nganhuynh",
+            "list": [
+                "Huynh Kim Ngan",
+                "Ngan Huynh",
+                "Ngan"
+            ]
+        },
+        {
+            "canonicalForm": "thaodang",
+            "list": [
+                "Dang Thi Phuong Thao",
+                "Thao Dang",
+                "Thao"
+            ]
+        },
+        {
+            "canonicalForm": "thuyttd",
+            "list": [
+                "Doan Thi Thanh Thuy",
+                "Thuy Thi Thanh Doan",
+                "Thuy"
+            ]
+        },
+        {
+            "canonicalForm": "thutmn",
+            "list": [
+                "Nguyen Thi Mai Thu",
+                "Thu Thi Mai Nguyen",
+                "Thu"
+            ]
+        },
+        {
+            "canonicalForm": "thudao",
+            "list": [
+                "Dao Thi Minh Thu",
+                "Thu Dao",
+                "Thu"
+            ]
+        },
+        {
+            "canonicalForm": "suongduong",
+            "list": [
+                "Duong Thu Suong",
+                "Suong Duong",
+                "Suong"
+            ]
+        },
+        {
+            "canonicalForm": "tuanbui",
+            "list": [
+                "Bui Duc Tuan",
+                "Tuan Bui",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "hiendt",
+            "list": [
+                "Tran Dac Hien",
+                "Hien Dac Tran",
+                "Hien"
+            ]
+        },
+        {
+            "canonicalForm": "chienhoang",
+            "list": [
+                "Hoang Van Chien",
+                "Chien Hoang",
+                "Chien"
+            ]
+        },
+        {
+            "canonicalForm": "namphan",
+            "list": [
+                "Phan Van Nam",
+                "Nam Phan",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "tiendau",
+            "list": [
+                "Dau The Tien",
+                "Tien Dau",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "LT01",
+            "list": [
+                "Luong Trang",
+                "aa",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "LT02",
+            "list": [
+                "Luong trang",
+                "bb",
+                "trang"
+            ]
+        },
+        {
+            "canonicalForm": "hanhnt",
+            "list": [
+                "Nguyen Hanh SD",
+                "Hanh Nguyen SD",
+                "SD"
+            ]
+        },
+        {
+            "canonicalForm": "anho",
+            "list": [
+                "Ho Hoang An",
+                "An Ho",
+                "An"
+            ]
+        },
+        {
+            "canonicalForm": "Jaehyun",
+            "list": [
+                "Jae Hyun Kim",
+                "Jae Hyun Kim ",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "datnguyen",
+            "list": [
+                "Nguyen Tien Dat",
+                "Dat Nguyen",
+                "Dat"
+            ]
+        },
+        {
+            "canonicalForm": "thoidao",
+            "list": [
+                "Dao Sy Thoi",
+                "Thoi Dao",
+                "Thoi"
+            ]
+        },
+        {
+            "canonicalForm": "hienvo",
+            "list": [
+                "Vo Thanh Hien",
+                "Hien Vo",
+                "Hien"
+            ]
+        },
+        {
+            "canonicalForm": "tuantruong",
+            "list": [
+                "Truong Ngoc Tuan",
+                "Tuan Truong",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "phongtn",
+            "list": [
+                "Nguyen Tuan Phong",
+                "Phong Tuan Nguyen",
+                "Phong"
+            ]
+        },
+        {
+            "canonicalForm": "chrish",
+            "list": [
+                "Christopher Hardwick",
+                "Christopher Hardwick",
+                "Hardwick"
+            ]
+        },
+        {
+            "canonicalForm": "binhnguyen",
+            "list": [
+                "Nguyen Ngoc Binh",
+                "Binh Nguyen",
+                "Binh"
+            ]
+        },
+        {
+            "canonicalForm": "hapham",
+            "list": [
+                "Pham Phuong Ha",
+                "Ha Pham",
+                "Ha"
+            ]
+        },
+        {
+            "canonicalForm": "spenseral",
+            "list": [
+                "Spenser Alexander",
+                "Spenser Alexander",
+                "Alexander"
+            ]
+        },
+        {
+            "canonicalForm": "tienal",
+            "list": [
+                "Le Anh Tien",
+                "Tien Anh Le",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "thuyln",
+            "list": [
+                "Nguyen Le Thuy",
+                "Thuy Le Nguyen",
+                "Thuy"
+            ]
+        },
+        {
+            "canonicalForm": "thaonguyen",
+            "list": [
+                "Nguyen Thi Thu Thao",
+                "Thao Nguyen",
+                "Thao"
+            ]
+        },
+        {
+            "canonicalForm": "samuel",
+            "list": [
+                "Samuel Yim",
+                "Samuel Yim",
+                "Yim"
+            ]
+        },
+        {
+            "canonicalForm": "aiho",
+            "list": [
+                "Ho Nhu Kha Ai",
+                "Ai Ho",
+                "Ai"
+            ]
+        },
+        {
+            "canonicalForm": "hoangthai",
+            "list": [
+                "Thai Huy Hoang",
+                "Hoang Thai",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "anhtnn",
+            "list": [
+                "Nguyen Thi Ngoc Anh",
+                "Anh Thi Ngoc Nguyen",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "tientn",
+            "list": [
+                "Nguyen Thanh Tien",
+                "Tien Thanh Nguyen",
+                "Tien"
+            ]
+        },
+        {
+            "canonicalForm": "quynhle",
+            "list": [
+                "Le Ho Thanh Quynh",
+                "Quynh Le",
+                "Quynh"
+            ]
+        },
+        {
+            "canonicalForm": "tuyettt",
+            "list": [
+                "Tran Thi Tuyet",
+                "Tuyet Thi Tran",
+                "Tuyet"
+            ]
+        },
+        {
+            "canonicalForm": "diemto",
+            "list": [
+                "To Thi Kieu Diem",
+                "Diem To",
+                "Diem"
+            ]
+        },
+        {
+            "canonicalForm": "nhutrinh",
+            "list": [
+                "Trinh Y Nhu",
+                "Nhu Trinh",
+                "Nhu"
+            ]
+        },
+        {
+            "canonicalForm": "haitruong",
+            "list": [
+                "Truong Ngoc Hai",
+                "Hai Truong",
+                "Hai"
+            ]
+        },
+        {
+            "canonicalForm": "nhutnguyen",
+            "list": [
+                "Nguyen Trong Nhut",
+                "Nhut Nguyen",
+                "Nhut"
+            ]
+        },
+        {
+            "canonicalForm": "thinhphan",
+            "list": [
+                "Phan Hoang Thinh",
+                "Thinh Phan",
+                "Thinh"
+            ]
+        },
+        {
+            "canonicalForm": "kinhnguyen",
+            "list": [
+                "Nguyen Trong Kinh",
+                "Kinh Nguyen",
+                "Kinh"
+            ]
+        },
+        {
+            "canonicalForm": "hieule",
+            "list": [
+                "Le Canh Hieu",
+                "Hieu Le",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "mina",
+            "list": [
+                "Mina Jeon",
+                "Mina Jeon",
+                "Jeon"
+            ]
+        },
+        {
+            "canonicalForm": "xuannguyen",
+            "list": [
+                "Nguyen Thi Yen Xuan",
+                "Xuan Nguyen",
+                "Xuan"
+            ]
+        },
+        {
+            "canonicalForm": "annguyen",
+            "list": [
+                "Nguyen Phuoc An",
+                "An Nguyen",
+                "An"
+            ]
+        },
+        {
+            "canonicalForm": "hieudao",
+            "list": [
+                "Dao Trung Hieu",
+                "Hieu Dao",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "baotran",
+            "list": [
+                "Tran Quoc Bao",
+                "Bao Tran",
+                "Bao"
+            ]
+        },
+        {
+            "canonicalForm": "thopham",
+            "list": [
+                "Pham Thi Oanh Tho",
+                "Tho Pham",
+                "Tho"
+            ]
+        },
+        {
+            "canonicalForm": "trangdang",
+            "list": [
+                "Dang Thi Huyen Trang",
+                "Trang Dang",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "quanle",
+            "list": [
+                "Le Hoang Quan",
+                "Quan Le",
+                "Quan"
+            ]
+        },
+        {
+            "canonicalForm": "phatduong",
+            "list": [
+                "Duong Vi Phat",
+                "Phat Duong",
+                "Phat"
+            ]
+        },
+        {
+            "canonicalForm": "knkim",
+            "list": [
+                "Ki Nam Kim",
+                "Ki Nam Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "anhthenguyen",
+            "list": [
+                "Nguyen The Anh",
+                "Anh The Nguyen",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "khoa",
+            "list": [
+                "Nguyen Luu Dang Khoa",
+                "Khoa Nguyen",
+                "Khoa"
+            ]
+        },
+        {
+            "canonicalForm": "nhannguyen",
+            "list": [
+                "Nguyen Thanh Nhan",
+                "Nhan Nguyen",
+                "Nhan"
+            ]
+        },
+        {
+            "canonicalForm": "hoangtn",
+            "list": [
+                "Nguyen Thanh Hoang",
+                "Hoang Thanh Nguyen",
+                "Hoang"
+            ]
+        },
+        {
+            "canonicalForm": "trungtn",
+            "list": [
+                "Nguyen Thanh Trung",
+                "Trung Thanh Nguyen",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "minhnguyen",
+            "list": [
+                "Nguyen Nhat Hoang Minh",
+                "Minh Nguyen",
+                "Minh"
+            ]
+        },
+        {
+            "canonicalForm": "trungtringuyen",
+            "list": [
+                "Nguyen Tri Trung",
+                "Trung Tri Nguyen",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "minhluong",
+            "list": [
+                "Luong Huu Minh",
+                "Minh Luong",
+                "Minh"
+            ]
+        },
+        {
+            "canonicalForm": "viennguyen",
+            "list": [
+                "Nguyen Hoai Vien",
+                "Vien Nguyen",
+                "Vien"
+            ]
+        },
+        {
+            "canonicalForm": "tuanat",
+            "list": [
+                "Tran Anh Tuan",
+                "Tuan Anh Tran ",
+                "Tuan"
+            ]
+        },
+        {
+            "canonicalForm": "thanhhn",
+            "list": [
+                "Nguyen Huy Thanh",
+                "Thanh Nguyen",
+                "Thanh"
+            ]
+        },
+        {
+            "canonicalForm": "thaobui",
+            "list": [
+                "Bui Thi Minh Thao",
+                "Thao Bui",
+                "Thao"
+            ]
+        },
+        {
+            "canonicalForm": "oanhdo",
+            "list": [
+                "Do Kieu Oanh",
+                "Oanh Do",
+                "Oanh"
+            ]
+        },
+        {
+            "canonicalForm": "trangnguyen",
+            "list": [
+                "Nguyen Thi Kim Trang",
+                "Trang Nguyen",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "jhroh",
+            "list": [
+                "Yoon Ho Roh",
+                "Yoon Ho Roh",
+                "Roh"
+            ]
+        },
+        {
+            "canonicalForm": "nhandn",
+            "list": [
+                "Nguyen Duc Nhan",
+                "Nhan Duc Nguyen",
+                "Nhan"
+            ]
+        },
+        {
+            "canonicalForm": "viencao",
+            "list": [
+                "Cao Ky Vien",
+                "Vien Cao",
+                "Vien"
+            ]
+        },
+        {
+            "canonicalForm": "huyphan",
+            "list": [
+                "Phan Viet Huy",
+                "Huy Phan",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "tranghmt",
+            "list": [
+                "To Huynh Minh Trang",
+                "Trang Huynh Minh To",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "baohoang",
+            "list": [
+                "Hoang Trong Bao",
+                "Bao Hoang",
+                "Bao"
+            ]
+        },
+        {
+            "canonicalForm": "thetran",
+            "list": [
+                "Tran Thanh The",
+                "The Tran",
+                "The"
+            ]
+        },
+        {
+            "canonicalForm": "congbui",
+            "list": [
+                "Bui Thai Cong",
+                "Cong Bui",
+                "Cong"
+            ]
+        },
+        {
+            "canonicalForm": "maeda",
+            "list": [
+                "Atsushi Maeda",
+                "Atsushi Maeda",
+                "Maeda"
+            ]
+        },
+        {
+            "canonicalForm": "trangtran",
+            "list": [
+                "Tran Thi Huyen Trang",
+                "Trang Tran",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "heidi",
+            "list": [
+                "Hye-Ji LEE",
+                "Heidi",
+                "LEE"
+            ]
+        },
+        {
+            "canonicalForm": "huythanh",
+            "list": [
+                "Thanh Ngoc Huy",
+                "Huy Thanh",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "haidoan",
+            "list": [
+                "Doan Quoc Hai",
+                "Hai Doan",
+                "Hai"
+            ]
+        },
+        {
+            "canonicalForm": "anhthn",
+            "list": [
+                "Nguyen Thi Hoang Anh",
+                "Anh Thi Hoang Nguyen",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "nganle",
+            "list": [
+                "Le Kim Ngan",
+                "Ngan Le",
+                "Ngan"
+            ]
+        },
+        {
+            "canonicalForm": "baonguyen",
+            "list": [
+                "Nguyen Manh Bao",
+                "Bao Nguyen",
+                "Bao"
+            ]
+        },
+        {
+            "canonicalForm": "phucdao",
+            "list": [
+                "Dao Ngoc Phuc",
+                "Phuc Dao",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "sojinkim",
+            "list": [
+                "Sojin Kim",
+                "Sojin Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "phuongluong",
+            "list": [
+                "Luong Ha Phuong",
+                "Phuong Luong",
+                "Phuong"
+            ]
+        },
+        {
+            "canonicalForm": "markchoi",
+            "list": [
+                "Mark Choi",
+                "Mark Choi",
+                "Choi"
+            ]
+        },
+        {
+            "canonicalForm": "nhiennguyen",
+            "list": [
+                "Nguyen Thanh Nhien",
+                "Nhien Nguyen",
+                "Nhien"
+            ]
+        },
+        {
+            "canonicalForm": "leesong",
+            "list": [
+                "Lee Song",
+                "Lee Song",
+                "Song"
+            ]
+        },
+        {
+            "canonicalForm": "jangwonkim",
+            "list": [
+                "Jang Won Kim",
+                "Jang Won Kim",
+                "Kim"
+            ]
+        },
+        {
+            "canonicalForm": "hungmn",
+            "list": [
+                "Nguyen Manh Hung",
+                "Hung Manh Nguyen",
+                "Hung"
+            ]
+        },
+        {
+            "canonicalForm": "huyngo",
+            "list": [
+                "Ngo Quang Huy",
+                "Huy Ngo",
+                "Huy"
+            ]
+        },
+        {
+            "canonicalForm": "hungvn",
+            "list": [
+                "Nguyen Van Hung",
+                "Hung Van Nguyen",
+                "Hung"
+            ]
+        },
+        {
+            "canonicalForm": "vitran",
+            "list": [
+                "Tran Thi Thuy Vi",
+                "Vi Tran",
+                "Vi"
+            ]
+        },
+        {
+            "canonicalForm": "chuongta",
+            "list": [
+                "Ta Pham Minh Chuong",
+                "Chuong Ta",
+                "Chuong"
+            ]
+        },
+        {
+            "canonicalForm": "chidoan",
+            "list": [
+                "Doan Nguyen Minh Chi",
+                "Chi Doan",
+                "Chi"
+            ]
+        },
+        {
+            "canonicalForm": "phuclh",
+            "list": [
+                "Le Hoang Phuc",
+                "Phuc Le Hoang",
+                "Phuc"
+            ]
+        },
+        {
+            "canonicalForm": "junkato",
+            "list": [
+                "Jun Kato",
+                "Jun Kato",
+                "Kato"
+            ]
+        },
+        {
+            "canonicalForm": "haule",
+            "list": [
+                "Le Van Hau",
+                "Hau Le",
+                "Hau"
+            ]
+        },
+        {
+            "canonicalForm": "laptran",
+            "list": [
+                "Tran Dinh Lap",
+                "Lap Tran",
+                "Lap"
+            ]
+        },
+        {
+            "canonicalForm": "haduong",
+            "list": [
+                "Duong Van Ha",
+                "Ha Duong",
+                "Ha"
+            ]
+        },
+        {
+            "canonicalForm": "trangphung",
+            "list": [
+                "Phung Thi Trang",
+                "Trang Phung",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "dungtran",
+            "list": [
+                "Tran Thi Ngoc Dung",
+                "Dung Tran",
+                "Dung"
+            ]
+        },
+        {
+            "canonicalForm": "yoonhojang",
+            "list": [
+                "Yoonho Jang",
+                "Yoonho Jang",
+                "Jang"
+            ]
+        },
+        {
+            "canonicalForm": "neysalazar",
+            "list": [
+                "Ney Salazar",
+                "Ney Salazar",
+                "Salazar"
+            ]
+        },
+        {
+            "canonicalForm": "trangle",
+            "list": [
+                "Le Thi Thuy Trang",
+                "Trang Le",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "ghkim",
+            "list": [
+                "Kim Goo Ho",
+                "Kim Goo Ho",
+                "Ho"
+            ]
+        },
+        {
+            "canonicalForm": "quangchu",
+            "list": [
+                "Chu Van Quang",
+                "Quang Chu",
+                "Quang"
+            ]
+        },
+        {
+            "canonicalForm": "duytran",
+            "list": [
+                "Tran Ngoc Duy",
+                "Duy Tran",
+                "Duy"
+            ]
+        },
+        {
+            "canonicalForm": "longdn",
+            "list": [
+                "Nguyen Dang Long",
+                "Long Nguyen",
+                "Long"
+            ]
+        },
+        {
+            "canonicalForm": "khanghh",
+            "list": [
+                "Hoang Huu Khang",
+                "Khang Hoang",
+                "Khang"
+            ]
+        },
+        {
+            "canonicalForm": "hiepnl",
+            "list": [
+                "Luu Nghia Hiep",
+                "Hiep Luu",
+                "Hiep"
+            ]
+        },
+        {
+            "canonicalForm": "linhttn",
+            "list": [
+                "Nguyen Thi Thu Linh",
+                "Linh Nguyen",
+                "Linh"
+            ]
+        },
+        {
+            "canonicalForm": "hoatt",
+            "list": [
+                "Trinh Thai Hoa",
+                "Hoa Trinh",
+                "Hoa"
+            ]
+        },
+        {
+            "canonicalForm": "trungtbn",
+            "list": [
+                "Nguyen Tran Bao Trung",
+                "Trung Tran Bao Nguyen",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "hangto",
+            "list": [
+                "To Minh Hang",
+                "Hang To",
+                "Hang"
+            ]
+        },
+        {
+            "canonicalForm": "anhtruong",
+            "list": [
+                "Truong Minh Anh",
+                "Anh Truong",
+                "Anh"
+            ]
+        },
+        {
+            "canonicalForm": "nhavo",
+            "list": [
+                "Vo Dinh Nha",
+                "Nha Vo",
+                "Nha"
+            ]
+        },
+        {
+            "canonicalForm": "doanluong",
+            "list": [
+                "Luong Cong Doan",
+                "Doan Luong",
+                "Doan"
+            ]
+        },
+        {
+            "canonicalForm": "thoauong",
+            "list": [
+                "Uong Thi Thoa",
+                "Thoa Uong",
+                "Thoa"
+            ]
+        },
+        {
+            "canonicalForm": "nam_vn",
+            "list": [
+                "Nguyen Viet Nam",
+                "Nam Nguyen",
+                "Nam"
+            ]
+        },
+        {
+            "canonicalForm": "ninhnm",
+            "list": [
+                "Mai Nhat Minh",
+                "Ninh Mai",
+                "Minh"
+            ]
+        },
+        {
+            "canonicalForm": "tammt",
+            "list": [
+                "Truong Minh Tam",
+                "Tam Truong",
+                "Tam"
+            ]
+        },
+        {
+            "canonicalForm": "hieutt",
+            "list": [
+                "Tran Thanh Hieu",
+                "Hieu Thanh Tran",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "christie",
+            "list": [
+                "Saghai Christie Fernando",
+                "Christie",
+                "Fernando"
+            ]
+        },
+        {
+            "canonicalForm": "locpham",
+            "list": [
+                "Pham Huu Loc",
+                "Loc Pham",
+                "Loc"
+            ]
+        },
+        {
+            "canonicalForm": "hjjung",
+            "list": [
+                "Eden Jeong",
+                "Eden Jeong",
+                "Jeong"
+            ]
+        },
+        {
+            "canonicalForm": "trangluong",
+            "list": [
+                "Luong Thi Thuy Trang",
+                "Trang Luong",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "hanhmai",
+            "list": [
+                "Mai Huu Hanh",
+                "Hanh Mai",
+                "Hanh"
+            ]
+        },
+        {
+            "canonicalForm": "hieupt",
+            "list": [
+                "Tran Phu Hieu",
+                "Hieu Phu Tran",
+                "Hieu"
+            ]
+        },
+        {
+            "canonicalForm": "trangha",
+            "list": [
+                "Ha Pham Diem Trang",
+                "Trang Ha",
+                "Trang"
+            ]
+        },
+        {
+            "canonicalForm": "trungvu",
+            "list": [
+                "Vu Quoc Trung",
+                "Trung Vu",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "danhdong",
+            "list": [
+                "Dong Quang Danh",
+                "Danh Dong",
+                "Danh"
+            ]
+        },
+        {
+            "canonicalForm": "nguyentran",
+            "list": [
+                "Tran Quoc Nguyen",
+                "Nguyen Tran",
+                "Nguyen"
+            ]
+        },
+        {
+            "canonicalForm": "thinhnguyen",
+            "list": [
+                "Nguyen Thai Thinh",
+                "Thinh Nguyen",
+                "Thinh"
+            ]
+        },
+        {
+            "canonicalForm": "ducngo",
+            "list": [
+                "Ngo Hung Duc",
+                "Duc Ngo",
+                "Duc"
+            ]
+        },
+        {
+            "canonicalForm": "hungmp",
+            "list": [
+                "Pham Minh Hung",
+                "Hung Minh Pham",
+                "Hung"
+            ]
+        },
+        {
+            "canonicalForm": "thinhpham",
+            "list": [
+                "Pham Quang Thinh",
+                "Thinh Pham",
+                "Thinh"
+            ]
+        },
+        {
+            "canonicalForm": "nhantn",
+            "list": [
+                "Nguyen Trong Nhan",
+                "Nhan Trong Nguyen",
+                "Nhan"
+            ]
+        },
+        {
+            "canonicalForm": "thanhln",
+            "list": [
+                "Nguyen Lam Thanh",
+                "Thanh Lam Nguyen",
+                "Thanh"
+            ]
+        },
+        {
+            "canonicalForm": "khoainguyen",
+            "list": [
+                "Nguyen Xuan Khoai",
+                "Khoai Nguyen",
+                "Khoai"
+            ]
+        },
+        {
+            "canonicalForm": "trungtruong",
+            "list": [
+                "Truong Vo Huu Trung",
+                "Trung Truong",
+                "Trung"
+            ]
+        },
+        {
+            "canonicalForm": "thientruong",
+            "list": [
+                "Truong Trung Thien",
+                "Thien Truong",
+                "Thien"
+            ]
+        }
+    ],
+    "roles": []
+}

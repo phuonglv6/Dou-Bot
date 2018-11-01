@@ -1,0 +1,609 @@
+{
+    "utterances": [
+        {
+            "text": "give me some information about Nguyen Ho Hai Trieu",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "get the profile of phuong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "tell me about khang dong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i want to know more about tran xuan thuong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i would like to know more about nguyen trong khiem",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "tell me the profile of phan thang dong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "tell me the information of dong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show me the profile of nguyen thanh huy",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show  me phu's profile",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show  van ngo's information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show me his information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show me her information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "show  me the information of Giang",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "give me the information of Ly Van Minh Ngoc",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "give me the profile of le van phuong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "give me Le Tien Hanh's profile",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "Le Van Kieu's profile",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "oanh's information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "can you tell me about Le Dac Cuong?",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i wonder if i can know  more about Le Van Son",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "how can i contact with phuc",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "may i get khoa 's profile ?",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "may i get the profile of phan van nam",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "may i get some information of bao",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "may i get the information of tran thai hoa",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "may i get Thao Doan 's information ?",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "let's me know phuong 's profile",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "let's me know tien 's information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "let's me know the information of nam",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "let's me know the profile of Pham Khanh Tan",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i need the information of Truong Duong",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i need the profile of Tung",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i need Lam 's profile",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "i need phong 's information",
+            "intent": "dou.get.profiles",
+            "entities": []
+        },
+        {
+            "text": "how many project did haong attend?",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "how many project did tu has?",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "how many project does tho attend?",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "how many project does hong has?",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "i want to know about  all minh 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "i want to know about Ngoc 's project",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "i would like to know about the information of  all thuy 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "please show me all Anh's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "show me the information about all phung 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "check all khanh 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "check Tran Van Hoang 's project",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "get all hai vu's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "get Le Duc Anh 's project",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "get hien tran 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "give me all Le Anh Tien's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "give me Nguyen Ho Hai Trieu's project",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "i need the information about nhan nguyen 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "i need some information about Nhut Vo's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "Can i get  all niem huynh's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "Can i get Tu Nguyen's project",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "please give me all Hang Ho 's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "please give me all Long Ly's projects",
+            "intent": "dou.get.projects",
+            "entities": []
+        },
+        {
+            "text": "How many tasks does Ut Tran have ?",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "Hanh Nguyen 's task",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "Please show me  all Tuan Tran's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "Please show me An 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "i want to know hau 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "I would you like to know thinh 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "i need the information about vu's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "i need some information about Nguyen Huu Tri 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "give me  all Ly Pham 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "give me Hien Le 's task",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "get Tien Duong's task",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "get Thai Nguyen's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "get  all Khoa Nguyen 's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "check all Bac Nguyen's tasks",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "check Tai Do's task",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many tasks did Nhut Trinh attend?",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many tasks did Lam Ton Phu has?",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many tasks does Huy Le attend?",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many tasks does Tung Nguyen has?",
+            "intent": "dou.get.tasks",
+            "entities": []
+        },
+        {
+            "text": "How many expired tasks does Kim Le have ?",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "Nghia 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "Please show me  all Chiem Nhat Thanh 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "Please show me Tran Duc Hien 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "i want to know Toan 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "I would you like to know Bac 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "i need the information about Tran Xuan Thuong 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "i need some information about Phan Quoc Dung 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "give me  all Duong Minh Khoa 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "give me Do Anh Minh 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "get Hoang Van Chien 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "get Phan Van Nam 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "get  all Dau The Tien 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "check all Luong Trang 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "check Tuyet 's expired tasks",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many expired tasks did Diem attend?",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many expired tasks did Nhu has?",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many expired tasks does Hai attend?",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "how many expired tasks does Nhut has?",
+            "intent": "dou.get.expired.tasks",
+            "entities": []
+        },
+        {
+            "text": "How many annual vacation days does Luong Huu Minh has ?",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "How many annual vacation days do Nguyen Hoai Vien have ?",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "Please show me Tran Anh Tuan 's annual vacation days",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "show me Nguyen Huy Thanh 's annual vacation days",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "current Bui Thi Minh Thao 's annual vacation days",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "Duy Tran 's annual vacation days",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "check Long Nguyen 's remaining annual leave days",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "get Khang Hoang 's remaining annual leave days.",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "how many leaves Hiep Luu has remaining?",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "show me Linh Nguyen 's remaining annual leave days.",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "get the annual vacation days of Hoa Trinh",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "get the leaves of Doan",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "show me the leaves of Thoa",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "show me the annual vacation days of Nam",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "i want to know about the remainning annual vacation days of Minh",
+            "intent": "dou.get.vacation.days",
+            "entities": []
+        },
+        {
+            "text": "change temperature to seventy two degrees",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "breezeway on please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "decrease temperature for me please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "dim kitchen lights to 25 .",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "fish pond off please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "illuminate please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "living room lamp on please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "living room lamps off please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "lock the doors for me please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "lower your volume",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "make camera 1 off please",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "make some coffee",
+            "intent": "None",
+            "entities": []
+        }
+    ]
+}

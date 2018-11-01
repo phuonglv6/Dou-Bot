@@ -1,0 +1,432 @@
+{
+    "patterns": [
+        {
+            "pattern": "give me some information about {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "get the profile[s] of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "tell me about {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i want to know [more] about {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i would like to know more about {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "tell me the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "tell me the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "show [me] the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "show [me] {EmployeeName}['s] profile",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "show [me] {EmployeeName}'s information",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "show [me] the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "give me the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "give me the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "give me {EmployeeName}['s] profile",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "{EmployeeName}['s] profile",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "{EmployeeName}['s] information",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "can you tell me about {EmployeeName}[?]",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i wonder if i can know [more] about {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "how can i contact with {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "may i get {EmployeeName}['s] profile[?]",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "may i get the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "may i get some information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "may i get the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "may i get {EmployeeName}['s] information[?]",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "let's me know {EmployeeName}['s] profile",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "let's me know {EmployeeName}['s] information",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "let's me know the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "let's me know the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i need the information of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i need the profile of {EmployeeName}",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i need {EmployeeName}['s] profile",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "i need {EmployeeName}['s] information",
+            "intent": "dou.get.profiles"
+        },
+        {
+            "pattern": "how many project did {EmployeeName} attend?",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "how many project did {EmployeeName} has?",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "how many project does {EmployeeName} attend?",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "how many project does {EmployeeName} has?",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "i want to know about [all] {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "i want to know about {EmployeeName}['s] project",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "i would like to know about the information of [all] {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "please show me all {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "show me the information about all {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "check all {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "check {EmployeeName}['s] project",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "get [all] {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] project",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "give me [all] {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "give me {EmployeeName}['s] project",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "i need the information about {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "i need some information about {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "Can i get [all] {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "Can i get {EmployeeName}['s] project",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "please give me all {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "please give me all {EmployeeName}['s] projects",
+            "intent": "dou.get.projects"
+        },
+        {
+            "pattern": "How many tasks does {EmployeeName} have[?]",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "{EmployeeName}['s] task",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "Please show me [all] {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "Please show me {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "i want to know {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "I would you like to know {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "i need the information about {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "i need some information about {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "give me [all] {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "give me {EmployeeName}['s] task",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] task",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "get [all] {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "check all {EmployeeName}['s] tasks",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "check {EmployeeName}['s] task",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "how many tasks did {EmployeeName} attend?",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "how many tasks did {EmployeeName} has?",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "how many tasks does {EmployeeName} attend?",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "how many tasks does {EmployeeName} has?",
+            "intent": "dou.get.tasks"
+        },
+        {
+            "pattern": "How many expired tasks does {EmployeeName} have[?]",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "{EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "Please show me [all] {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "Please show me {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "i want to know {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "I would you like to know {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "i need the information about {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "i need some information about {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "give me [all] {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "give me {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "get [all] {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "check all {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "check {EmployeeName}['s] expired tasks",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "how many expired tasks did {EmployeeName} attend?",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "how many expired tasks did {EmployeeName} has?",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "how many expired tasks does {EmployeeName} attend?",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "how many expired tasks does {EmployeeName} has?",
+            "intent": "dou.get.expired.tasks"
+        },
+        {
+            "pattern": "How many annual vacation days does {EmployeeName} has[?]",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "How many annual vacation days do {EmployeeName} have[?]",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "Please show me {EmployeeName}['s] annual vacation days",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "show me {EmployeeName}['s] annual vacation days",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "current {EmployeeName}['s] annual vacation days",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "{EmployeeName}['s] annual vacation days",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "check {EmployeeName}['s] remaining annual leave days",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "get {EmployeeName}['s] remaining annual leave days.",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "how many leaves {EmployeeName} has remaining?",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "show me {EmployeeName}['s] remaining annual leave days.",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "get the annual vacation days of {EmployeeName}",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "get the leaves of {EmployeeName}",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "show me the leaves of {EmployeeName}",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "show me the annual vacation days of {EmployeeName}",
+            "intent": "dou.get.vacation.days"
+        },
+        {
+            "pattern": "i want to know about the remainning annual vacation days of {EmployeeName}",
+            "intent": "dou.get.vacation.days"
+        }
+    ]
+}

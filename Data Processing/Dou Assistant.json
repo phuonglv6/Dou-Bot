@@ -1,0 +1,4255 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "0.1",
+  "name": "Dou Assistant",
+  "desc": "Dou Assistant",
+  "culture": "en-us",
+  "intents": [
+    {
+        "name": "dou.get.vacation.days"
+    },
+    {
+        "name": "dou.get.profiles"
+    },
+    {
+        "name": "dou.get.projects"
+    },
+    {
+        "name": "dou.get.expired.tasks"
+    },
+    {
+        "name": "dou.get.tasks"
+    },
+    {
+        "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "EmployeeName",
+      "subLists": [
+          {
+              "canonicalForm": "ngocly",
+              "list": [
+                  "Ly Van Minh Ngoc",
+                  "Ngoc Ly",
+                  "Ngoc"
+              ]
+          },
+          {
+              "canonicalForm": "kimthoa",
+              "list": [
+                  "Dien Kim Thoa",
+                  "Thoa Dien Kim",
+                  "Thoa"
+              ]
+          },
+          {
+              "canonicalForm": "phuongnguyen",
+              "list": [
+                  "Nguyen Duy Phuong",
+                  "Phuong Nguyen",
+                  "Phuong"
+              ]
+          },
+          {
+              "canonicalForm": "trieunguyen",
+              "list": [
+                  "Nguyen Ho Hai Trieu",
+                  "Trieu Nguyen",
+                  "Trieu"
+              ]
+          },
+          {
+              "canonicalForm": "vinhvo",
+              "list": [
+                  "Vo Thanh Vinh",
+                  "Vinh Vo",
+                  "Vinh"
+              ]
+          },
+          {
+              "canonicalForm": "jeachung",
+              "list": [
+                  "Jae Hong Chung",
+                  "Jae Hong Chung",
+                  "Chung"
+              ]
+          },
+          {
+              "canonicalForm": "khanhnguyen",
+              "list": [
+                  "Nguyen Van Khanh",
+                  "Khanh Nguyen",
+                  "Khanh"
+              ]
+          },
+          {
+              "canonicalForm": "hoangnguyen",
+              "list": [
+                  "Nguyen Huu Hoang",
+                  "Hoang Nguyen",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "dungnguyen",
+              "list": [
+                  "Nguyen Minh Hoang Dung",
+                  "Dung Nguyen",
+                  "Dung"
+              ]
+          },
+          {
+              "canonicalForm": "phunguyen",
+              "list": [
+                  "Nguyen Duy Phu",
+                  "Phu Nguyen",
+                  "Phu"
+              ]
+          },
+          {
+              "canonicalForm": "tinluong",
+              "list": [
+                  "Luong Trung Tin",
+                  "Tin Luong Trung",
+                  "Tin"
+              ]
+          },
+          {
+              "canonicalForm": "tuannguyen",
+              "list": [
+                  "Nguyen Ngoc Tuan",
+                  "Tuan Nguyen",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "hoangpham",
+              "list": [
+                  "Pham Minh Hoang",
+                  "Hoang Pham",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "binhphan",
+              "list": [
+                  "Phan Quoc Binh",
+                  "Binh Phan",
+                  "Binh"
+              ]
+          },
+          {
+              "canonicalForm": "myly",
+              "list": [
+                  "Ly Thi Diem My",
+                  "My Ly",
+                  "My"
+              ]
+          },
+          {
+              "canonicalForm": "hoangtran",
+              "list": [
+                  "Tran Van Hoang",
+                  "Hoang Tran",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "namnguyen",
+              "list": [
+                  "Nguyen Vu Nam",
+                  "Nam Nguyen",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "lucduong",
+              "list": [
+                  "Duong Tuan Luc",
+                  "Luc Duong",
+                  "Luc"
+              ]
+          },
+          {
+              "canonicalForm": "tuyentran",
+              "list": [
+                  "Tran Thi Thanh Tuyen",
+                  "Tuyen Tran",
+                  "Tuyen"
+              ]
+          },
+          {
+              "canonicalForm": "huymai",
+              "list": [
+                  "Mai Hieu Huy",
+                  "Huy Mai",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "cuongle",
+              "list": [
+                  "Le Dac Cuong",
+                  "Cuong Le",
+                  "Cuong"
+              ]
+          },
+          {
+              "canonicalForm": "hieuhoang",
+              "list": [
+                  "Hoang Van Hieu",
+                  "Hieu Hoang",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "kiettran",
+              "list": [
+                  "Tran Anh Kiet",
+                  "Anh Kiet Tran",
+                  "Kiet"
+              ]
+          },
+          {
+              "canonicalForm": "tanpham",
+              "list": [
+                  "Pham Khanh Tan",
+                  "Tan Pham",
+                  "Tan"
+              ]
+          },
+          {
+              "canonicalForm": "uyentri",
+              "list": [
+                  "Tri Thi Uyen",
+                  "Uyen Tri",
+                  "Uyen"
+              ]
+          },
+          {
+              "canonicalForm": "marciem",
+              "list": [
+                  "Marcie Mariscal",
+                  "Marcie Mariscal",
+                  "Mariscal"
+              ]
+          },
+          {
+              "canonicalForm": "phucnguyen",
+              "list": [
+                  "Nguyen Le Thi Phuc",
+                  "Phuc Nguyen",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "kieule",
+              "list": [
+                  "Le Van Kieu",
+                  "Kieu Le",
+                  "Kieu"
+              ]
+          },
+          {
+              "canonicalForm": "truongduong",
+              "list": [
+                  "Duong Quoc Truong",
+                  "Truong Duong",
+                  "Truong"
+              ]
+          },
+          {
+              "canonicalForm": "vungo",
+              "list": [
+                  "Ngo Tran Huyen Vu",
+                  "Vu Ngo",
+                  "Vu"
+              ]
+          },
+          {
+              "canonicalForm": "anhhoang",
+              "list": [
+                  "Hoang Thi Ngoc Anh",
+                  "Anh Hoang",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "tungnguyen",
+              "list": [
+                  "Nguyen Thanh Tung",
+                  "Tung Nguyen",
+                  "Tung"
+              ]
+          },
+          {
+              "canonicalForm": "khiemnguyen",
+              "list": [
+                  "Nguyen Trong Khiem",
+                  "Khiem Nguyen",
+                  "Khiem"
+              ]
+          },
+          {
+              "canonicalForm": "hanhle",
+              "list": [
+                  "Le Tien Hanh",
+                  "Hanh Le",
+                  "Hanh"
+              ]
+          },
+          {
+              "canonicalForm": "phongnguyen",
+              "list": [
+                  "Nguyen Duy Phong",
+                  "Phong Nguyen",
+                  "Phong"
+              ]
+          },
+          {
+              "canonicalForm": "oanhnguyen",
+              "list": [
+                  "Nguyen Thi Hoang Oanh",
+                  "Oanh Nguyen ",
+                  "Oanh"
+              ]
+          },
+          {
+              "canonicalForm": "nhutvo",
+              "list": [
+                  "Vo Hoang Nhut",
+                  "Nhut Vo",
+                  "Nhut"
+              ]
+          },
+          {
+              "canonicalForm": "niemhuynh",
+              "list": [
+                  "Huynh Kim Niem",
+                  "Niem Huynh",
+                  "Niem"
+              ]
+          },
+          {
+              "canonicalForm": "doannguyen",
+              "list": [
+                  "Nguyen Van Doan",
+                  "Doan Nguyen",
+                  "Doan"
+              ]
+          },
+          {
+              "canonicalForm": "hangho",
+              "list": [
+                  "Ho Tong Thuy Hang",
+                  "Hang Ho",
+                  "Hang"
+              ]
+          },
+          {
+              "canonicalForm": "jungkim",
+              "list": [
+                  "Junghee Kim",
+                  "Junghee Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "sonle",
+              "list": [
+                  "Le Van Son",
+                  "Son Le",
+                  "Son"
+              ]
+          },
+          {
+              "canonicalForm": "lamnguyen",
+              "list": [
+                  "Nguyen Dinh Lam",
+                  "Lam Nguyen",
+                  "Lam"
+              ]
+          },
+          {
+              "canonicalForm": "prabu",
+              "list": [
+                  "Kumaran Prabu",
+                  "Prabu Kumaran",
+                  "Prabu"
+              ]
+          },
+          {
+              "canonicalForm": "ahmedshah",
+              "list": [
+                  "Ahmed Shah",
+                  "Ahmed Shah",
+                  "Shah"
+              ]
+          },
+          {
+              "canonicalForm": "bonobron",
+              "list": [
+                  "Bronson Bono",
+                  "Bronson Bono",
+                  "Bono"
+              ]
+          },
+          {
+              "canonicalForm": "yongtaelee",
+              "list": [
+                  "Yongtae Lee",
+                  "Yongtae Lee",
+                  "Lee"
+              ]
+          },
+          {
+              "canonicalForm": "timhan",
+              "list": [
+                  "Timothy Han",
+                  "Timothy Han",
+                  "Han"
+              ]
+          },
+          {
+              "canonicalForm": "thuynguyen",
+              "list": [
+                  "Nguyen Thi Thuy",
+                  "Thuy Nguyen",
+                  "Thuy"
+              ]
+          },
+          {
+              "canonicalForm": "tunguyen",
+              "list": [
+                  "Nguyen Van Tu",
+                  "Tu Nguyen",
+                  "Tu"
+              ]
+          },
+          {
+              "canonicalForm": "sangnguyen",
+              "list": [
+                  "Nguyen Thi Sang",
+                  "Sang Nguyen",
+                  "Sang"
+              ]
+          },
+          {
+              "canonicalForm": "tutran",
+              "list": [
+                  "Tran Thanh Tu",
+                  "Tu Tran",
+                  "Tu"
+              ]
+          },
+          {
+              "canonicalForm": "truongdo",
+              "list": [
+                  "Do Xuan Truong",
+                  "Truong Do",
+                  "Truong"
+              ]
+          },
+          {
+              "canonicalForm": "minhpham",
+              "list": [
+                  "Pham Hoang Minh",
+                  "Minh Pham",
+                  "Minh"
+              ]
+          },
+          {
+              "canonicalForm": "haoluong",
+              "list": [
+                  "Luong Vi Hao",
+                  "Hao Luong",
+                  "Hao"
+              ]
+          },
+          {
+              "canonicalForm": "phucbui",
+              "list": [
+                  "Bui Duy Phuc",
+                  "Phuc Bui",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "anhle",
+              "list": [
+                  "Le Duc Anh",
+                  "Anh Le",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "longly",
+              "list": [
+                  "L\u00fd Kh\u00e1nh Long",
+                  "Long Ly",
+                  "Long"
+              ]
+          },
+          {
+              "canonicalForm": "huyhoang",
+              "list": [
+                  "Hoang Pham Huy",
+                  "Huy Hoang",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "uttran",
+              "list": [
+                  "Tran Thi Ut",
+                  "Ut Tran",
+                  "Ut"
+              ]
+          },
+          {
+              "canonicalForm": "hanhnguyen",
+              "list": [
+                  "Nguyen Thi My Hanh",
+                  "Hanh Nguyen",
+                  "Hanh"
+              ]
+          },
+          {
+              "canonicalForm": "mypham",
+              "list": [
+                  "Pham Ai My",
+                  "My Pham",
+                  "My"
+              ]
+          },
+          {
+              "canonicalForm": "jhshin",
+              "list": [
+                  "Shin Jeong-Hoon",
+                  "Shin Jeong-Hoon",
+                  "Jeong-Hoon"
+              ]
+          },
+          {
+              "canonicalForm": "ngochuynh",
+              "list": [
+                  "Huynh Nhu Ngoc",
+                  "Ngoc Huynh",
+                  "Ngoc"
+              ]
+          },
+          {
+              "canonicalForm": "ganeshkumar",
+              "list": [
+                  "Sivabalasubramanian Ganesh Kumar",
+                  "Ganesh Kumar",
+                  "Kumar"
+              ]
+          },
+          {
+              "canonicalForm": "thinhhuynh",
+              "list": [
+                  "Huynh Dang Thinh",
+                  "Thinh Huynh",
+                  "Thinh"
+              ]
+          },
+          {
+              "canonicalForm": "haihn",
+              "list": [
+                  "Nguyen Huy Hai",
+                  "Hai Huy Nguyen",
+                  "Hai"
+              ]
+          },
+          {
+              "canonicalForm": "clairelee",
+              "list": [
+                  "Claire Lee",
+                  "Claire Lee",
+                  "Lee"
+              ]
+          },
+          {
+              "canonicalForm": "ibak",
+              "list": [
+                  "Il Min Bak",
+                  "Il Min Bak",
+                  "Bak"
+              ]
+          },
+          {
+              "canonicalForm": "estherroh",
+              "list": [
+                  "Esther Roh",
+                  "Esther Roh",
+                  "Roh"
+              ]
+          },
+          {
+              "canonicalForm": "youngbae",
+              "list": [
+                  "Youngchool Bae",
+                  "Youngchool Bae",
+                  "Bae"
+              ]
+          },
+          {
+              "canonicalForm": "timothy",
+              "list": [
+                  "Timothy Lim",
+                  "Timothy Lim",
+                  "Lim"
+              ]
+          },
+          {
+              "canonicalForm": "haivu",
+              "list": [
+                  "Vu Le Hai",
+                  "Hai Vu",
+                  "Hai"
+              ]
+          },
+          {
+              "canonicalForm": "tienle",
+              "list": [
+                  "Le Trung Tien",
+                  "Tien Le",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "tiennguyen",
+              "list": [
+                  "Nguyen My Tien",
+                  "Tien Nguyen",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "trucpham",
+              "list": [
+                  "Pham Trung Truc",
+                  "Truc Pham",
+                  "Truc"
+              ]
+          },
+          {
+              "canonicalForm": "claire",
+              "list": [
+                  "Claire Won",
+                  "Claire Won",
+                  "Won"
+              ]
+          },
+          {
+              "canonicalForm": "haiho",
+              "list": [
+                  "Ho Doan Phuong Hai",
+                  "Hai Ho",
+                  "Hai"
+              ]
+          },
+          {
+              "canonicalForm": "jayyu",
+              "list": [
+                  "Jay Yu",
+                  "Jay Yu",
+                  "Yu"
+              ]
+          },
+          {
+              "canonicalForm": "kris",
+              "list": [
+                  "Kris Park",
+                  "Kris Park",
+                  "Park"
+              ]
+          },
+          {
+              "canonicalForm": "johnso",
+              "list": [
+                  "John So",
+                  "John So",
+                  "So"
+              ]
+          },
+          {
+              "canonicalForm": "jasonkim",
+              "list": [
+                  "Tae Yun Kim",
+                  "Tae Yun Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "philipsuh",
+              "list": [
+                  "Philip Suh",
+                  "Philip Suh",
+                  "Suh"
+              ]
+          },
+          {
+              "canonicalForm": "johnbae",
+              "list": [
+                  "John Bae",
+                  "John Bae",
+                  "Bae"
+              ]
+          },
+          {
+              "canonicalForm": "mike",
+              "list": [
+                  "Mike Chang",
+                  "Mike Chang",
+                  "Chang"
+              ]
+          },
+          {
+              "canonicalForm": "ashleykim",
+              "list": [
+                  "Ashley Kim",
+                  "Ashley Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "oanhtran",
+              "list": [
+                  "Tran Thi Oanh",
+                  "Oanh Tran",
+                  "Oanh"
+              ]
+          },
+          {
+              "canonicalForm": "nghianguyen",
+              "list": [
+                  "Nguyen Trung Nghia",
+                  "Nghia Nguyen",
+                  "Nghia"
+              ]
+          },
+          {
+              "canonicalForm": "tuantran",
+              "list": [
+                  "Tran Le Anh Tuan",
+                  "Tuan Tran",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "lypham",
+              "list": [
+                  "Pham Vu Mai Ly",
+                  "Ly Pham",
+                  "Ly"
+              ]
+          },
+          {
+              "canonicalForm": "namnnguyen",
+              "list": [
+                  "Nguyen Ngoc Nam",
+                  "Nam Ngoc Nguyen",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "kyongsokji",
+              "list": [
+                  "KyongSok Ji",
+                  "KyongSok Ji",
+                  "Ji"
+              ]
+          },
+          {
+              "canonicalForm": "truongbui",
+              "list": [
+                  "Bui Nhat Truong",
+                  "Truong Bui",
+                  "Truong"
+              ]
+          },
+          {
+              "canonicalForm": "antruong",
+              "list": [
+                  "Truong Hoang An",
+                  "An Truong",
+                  "An"
+              ]
+          },
+          {
+              "canonicalForm": "thaodoan",
+              "list": [
+                  "Doan Thi Thu Thao",
+                  "Thao Doan",
+                  "Thao"
+              ]
+          },
+          {
+              "canonicalForm": "loido",
+              "list": [
+                  "Do Ngoc Loi",
+                  "Loi Do",
+                  "Loi"
+              ]
+          },
+          {
+              "canonicalForm": "namdoan",
+              "list": [
+                  "Doan Minh Nam",
+                  "Nam Doan",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "chautruong",
+              "list": [
+                  "Truong Vu Anh Chau",
+                  "Chau Truong",
+                  "Chau"
+              ]
+          },
+          {
+              "canonicalForm": "hatn",
+              "list": [
+                  "Nguyen Thai Ha",
+                  "Ha Nguyen",
+                  "Ha"
+              ]
+          },
+          {
+              "canonicalForm": "tuyettran",
+              "list": [
+                  "Tran Anh Tuyet",
+                  "Tuyet Tran",
+                  "Tuyet"
+              ]
+          },
+          {
+              "canonicalForm": "jaeyoo",
+              "list": [
+                  "Jae Hyun Yoo",
+                  "Jae Hyun Yoo",
+                  "Yoo"
+              ]
+          },
+          {
+              "canonicalForm": "hienle",
+              "list": [
+                  "Le Thi Thu Hien",
+                  "Hien Le",
+                  "Hien"
+              ]
+          },
+          {
+              "canonicalForm": "chrischoi",
+              "list": [
+                  "Lena Kim",
+                  "Lena Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "phongvo",
+              "list": [
+                  "Thanh Phong Vo",
+                  "Phong Vo",
+                  "Vo"
+              ]
+          },
+          {
+              "canonicalForm": "phucdo",
+              "list": [
+                  "Do Hong Phuc",
+                  "Phuc Do",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "karayoon",
+              "list": [
+                  "Kara Yoon",
+                  "Kara Yoon",
+                  "Yoon"
+              ]
+          },
+          {
+              "canonicalForm": "gloriachan",
+              "list": [
+                  "Gloria Chan",
+                  "Gloria Chan",
+                  "Chan"
+              ]
+          },
+          {
+              "canonicalForm": "kimle",
+              "list": [
+                  "Le Thi Hoang Kim",
+                  "Kim Le",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "briansong",
+              "list": [
+                  "Brian Song",
+                  "Brian Song",
+                  "Song"
+              ]
+          },
+          {
+              "canonicalForm": "anhha",
+              "list": [
+                  "Ha Thi Hong Anh",
+                  "Anh Ha",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "quannguyen",
+              "list": [
+                  "Nguyen Minh Quan",
+                  "Quan Nguyen",
+                  "Quan"
+              ]
+          },
+          {
+              "canonicalForm": "hoangmn",
+              "list": [
+                  "Nguyen Minh Hoang",
+                  "Hoang Minh Nguyen",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "jihoonkim",
+              "list": [
+                  "Ji Hoon Kim",
+                  "Ji Hoon Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "hungpham",
+              "list": [
+                  "Pham Kien Hung",
+                  "Hung Pham",
+                  "Hung"
+              ]
+          },
+          {
+              "canonicalForm": "nhanhuynh",
+              "list": [
+                  "Huynh Tran Hieu Nhan",
+                  "Nhan Huynh",
+                  "Nhan"
+              ]
+          },
+          {
+              "canonicalForm": "tuyentruong",
+              "list": [
+                  "Truong Thi Thanh Tuyen",
+                  "Tuyen Truong",
+                  "Tuyen"
+              ]
+          },
+          {
+              "canonicalForm": "jspark",
+              "list": [
+                  "Ji Sung Park",
+                  "Ji Sung Park",
+                  "Park"
+              ]
+          },
+          {
+              "canonicalForm": "hoanguyen",
+              "list": [
+                  "Nguyen Anh Hoa",
+                  "Hoa Nguyen",
+                  "Hoa"
+              ]
+          },
+          {
+              "canonicalForm": "tienduong",
+              "list": [
+                  "Duong Duy Tien",
+                  "Tien Duong",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "giangnguyen",
+              "list": [
+                  "Nguyen Thi Tra Giang",
+                  "Giang Nguyen",
+                  "Giang"
+              ]
+          },
+          {
+              "canonicalForm": "mahesh",
+              "list": [
+                  "Subramanian Mahesh",
+                  "Mahesh Subramanian",
+                  "Mahesh"
+              ]
+          },
+          {
+              "canonicalForm": "dieple",
+              "list": [
+                  "Le Hoang Thi Ngoc Diep",
+                  "Diep Le",
+                  "Diep"
+              ]
+          },
+          {
+              "canonicalForm": "yoonmin",
+              "list": [
+                  "Min Yoon",
+                  "Min Yoon",
+                  "Yoon"
+              ]
+          },
+          {
+              "canonicalForm": "tinho",
+              "list": [
+                  "Ho Duy Tin",
+                  "Tin Ho",
+                  "Tin"
+              ]
+          },
+          {
+              "canonicalForm": "giangpham",
+              "list": [
+                  "Pham Thi Huong Giang",
+                  "Giang Pham",
+                  "Giang"
+              ]
+          },
+          {
+              "canonicalForm": "toanht",
+              "list": [
+                  "Tran Huu Toan",
+                  "Toan Huu Tran",
+                  "Toan"
+              ]
+          },
+          {
+              "canonicalForm": "dungdao",
+              "list": [
+                  "Dao Anh Dung",
+                  "Dung Dao",
+                  "Dung"
+              ]
+          },
+          {
+              "canonicalForm": "kieuvo",
+              "list": [
+                  "Vo Thi Xuan Kieu",
+                  "Kieu Vo ",
+                  "Kieu"
+              ]
+          },
+          {
+              "canonicalForm": "quyenthan",
+              "list": [
+                  "Than Mau Quyen",
+                  "Quyen Than",
+                  "Quyen"
+              ]
+          },
+          {
+              "canonicalForm": "pandi",
+              "list": [
+                  "Ravindran Shunmuga Raja Pandi",
+                  "Shunmuga Raja Pandi",
+                  "Pandi"
+              ]
+          },
+          {
+              "canonicalForm": "phuocphan",
+              "list": [
+                  "Phan Huu Phuoc",
+                  "Phuoc Phan",
+                  "Phuoc"
+              ]
+          },
+          {
+              "canonicalForm": "trangtruong",
+              "list": [
+                  "Truong Ngoc Thu Trang",
+                  "Trang Truong",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "dungdo",
+              "list": [
+                  "Do Thuy Kim Dung",
+                  "Dung Do",
+                  "Dung"
+              ]
+          },
+          {
+              "canonicalForm": "syrgb14",
+              "list": [
+                  "Youn-Sub Shin",
+                  "Youn-Sub Shin",
+                  "Shin"
+              ]
+          },
+          {
+              "canonicalForm": "baohuynh",
+              "list": [
+                  "Huynh Kim Bao",
+                  "Bao Huynh",
+                  "Bao"
+              ]
+          },
+          {
+              "canonicalForm": "hautran",
+              "list": [
+                  "Tran Thanh Hau",
+                  "Hau Tran",
+                  "Hau"
+              ]
+          },
+          {
+              "canonicalForm": "anhtn",
+              "list": [
+                  "Nguyen Tuan Anh",
+                  "Anh Nguyen Tuan",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "khoanguyen",
+              "list": [
+                  "Nguyen Duc Khoa",
+                  "Khoa Nguyen",
+                  "Khoa"
+              ]
+          },
+          {
+              "canonicalForm": "tinnguyen",
+              "list": [
+                  "Nguyen Trung Tin",
+                  "Tin Nguyen",
+                  "Tin"
+              ]
+          },
+          {
+              "canonicalForm": "lamtran",
+              "list": [
+                  "Tran Hoang Lam",
+                  "Lam Tran",
+                  "Lam"
+              ]
+          },
+          {
+              "canonicalForm": "thuytran",
+              "list": [
+                  "Tran Thi Thu Thuy",
+                  "Thuy Tran",
+                  "Thuy"
+              ]
+          },
+          {
+              "canonicalForm": "dongguk",
+              "list": [
+                  "Dong Guk Ye",
+                  "Dong Guk Ye",
+                  "Ye"
+              ]
+          },
+          {
+              "canonicalForm": "giangvo",
+              "list": [
+                  "Vo Thi Huong Giang",
+                  "Giang Vo",
+                  "Giang"
+              ]
+          },
+          {
+              "canonicalForm": "huongnguyen",
+              "list": [
+                  "Nguyen Ngoc Khanh Huong",
+                  "Huong Nguyen",
+                  "Huong"
+              ]
+          },
+          {
+              "canonicalForm": "chloelim",
+              "list": [
+                  "Chloe Lim",
+                  "Chloe Lim",
+                  "Lim"
+              ]
+          },
+          {
+              "canonicalForm": "tientran",
+              "list": [
+                  "Tran Thi Thuy Tien",
+                  "Tien Tran",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "thuydoan",
+              "list": [
+                  "Doan Vu Thuy",
+                  "Thuy Doan",
+                  "Thuy"
+              ]
+          },
+          {
+              "canonicalForm": "diemhuynh",
+              "list": [
+                  "Huynh Thi Kieu Diem",
+                  "Diem Huynh",
+                  "Diem"
+              ]
+          },
+          {
+              "canonicalForm": "luantran",
+              "list": [
+                  "Tran Chanh Luan",
+                  "Luan Tran",
+                  "Luan"
+              ]
+          },
+          {
+              "canonicalForm": "farrahkim",
+              "list": [
+                  "Farrah Kim",
+                  "Farrah Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "datpham",
+              "list": [
+                  "Pham Ba Dat",
+                  "Dat Pham",
+                  "Dat"
+              ]
+          },
+          {
+              "canonicalForm": "quanvo",
+              "list": [
+                  "Vo Trung Quan",
+                  "Quan Vo",
+                  "Quan"
+              ]
+          },
+          {
+              "canonicalForm": "hieutn",
+              "list": [
+                  "Nguyen Trung Hieu",
+                  "Hieu Nguyen",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "thanhphung",
+              "list": [
+                  "Phung Quang Thanh",
+                  "Thanh Phung",
+                  "Thanh"
+              ]
+          },
+          {
+              "canonicalForm": "gongwon",
+              "list": [
+                  "Gongwon An",
+                  "Gongwon An",
+                  "An"
+              ]
+          },
+          {
+              "canonicalForm": "truongle",
+              "list": [
+                  "Truong Le",
+                  "Truong Le",
+                  "Le"
+              ]
+          },
+          {
+              "canonicalForm": "jenniferk",
+              "list": [
+                  "Jennifer Kim",
+                  "Jennifer Kim ",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "viettrinh",
+              "list": [
+                  "Trinh Hoang Xuan Viet",
+                  "Viet Trinh",
+                  "Viet"
+              ]
+          },
+          {
+              "canonicalForm": "nhatdoan",
+              "list": [
+                  "Doan Si Nhat",
+                  "Nhat Doan",
+                  "Nhat"
+              ]
+          },
+          {
+              "canonicalForm": "nhatphan",
+              "list": [
+                  "Phan Dinh Minh Nhat",
+                  "Nhat Phan",
+                  "Nhat"
+              ]
+          },
+          {
+              "canonicalForm": "cuongphan",
+              "list": [
+                  "Phan Huy Cuong",
+                  "Cuong Phan",
+                  "Cuong"
+              ]
+          },
+          {
+              "canonicalForm": "kyluong",
+              "list": [
+                  "Luong Cong Ky",
+                  "Ky Luong",
+                  "Ky"
+              ]
+          },
+          {
+              "canonicalForm": "loinguyen",
+              "list": [
+                  "Nguyen Duc Loi",
+                  "Loi Nguyen",
+                  "Loi"
+              ]
+          },
+          {
+              "canonicalForm": "vule",
+              "list": [
+                  "Le Thanh Vu",
+                  "Vu Le",
+                  "Vu"
+              ]
+          },
+          {
+              "canonicalForm": "laura",
+              "list": [
+                  "Laura Kim",
+                  "Laura Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "quynhnguyen",
+              "list": [
+                  "Nguyen Thi Ngoc Quynh",
+                  "Quynh Nguyen",
+                  "Quynh"
+              ]
+          },
+          {
+              "canonicalForm": "thanhnham",
+              "list": [
+                  "Nham Xuan Thanh",
+                  "Thanh Nham",
+                  "Thanh"
+              ]
+          },
+          {
+              "canonicalForm": "nhuttrinh",
+              "list": [
+                  "Trinh Minh Nhut",
+                  "Nhut Trinh",
+                  "Nhut"
+              ]
+          },
+          {
+              "canonicalForm": "manhnguyen",
+              "list": [
+                  "Nguyen Dinh Manh",
+                  "Manh Nguyen",
+                  "Manh"
+              ]
+          },
+          {
+              "canonicalForm": "taskholder",
+              "list": [
+                  "Task Holder",
+                  "Task Holder",
+                  "Holder"
+              ]
+          },
+          {
+              "canonicalForm": "phuongthn",
+              "list": [
+                  "Nguyen Thi Hong Phuong",
+                  "Phuong Thi Hong Nguyen",
+                  "Phuong"
+              ]
+          },
+          {
+              "canonicalForm": "khoivu",
+              "list": [
+                  "Vu Minh Khoi",
+                  "Khoi Vu",
+                  "Khoi"
+              ]
+          },
+          {
+              "canonicalForm": "hkpark",
+              "list": [
+                  "Hee Kab Park",
+                  "Hee Kab Park",
+                  "Park"
+              ]
+          },
+          {
+              "canonicalForm": "amyhan",
+              "list": [
+                  "Amy Han",
+                  "Amy Han",
+                  "Han"
+              ]
+          },
+          {
+              "canonicalForm": "phulam",
+              "list": [
+                  "Lam Ton Phu",
+                  "Phu Lam",
+                  "Phu"
+              ]
+          },
+          {
+              "canonicalForm": "ngocnguyen",
+              "list": [
+                  "Nguyen Duc Chau Ngoc",
+                  "Ngoc Nguyen",
+                  "Ngoc"
+              ]
+          },
+          {
+              "canonicalForm": "eunzo",
+              "list": [
+                  "Eunzo Lee",
+                  "Eunzo Lee",
+                  "Lee"
+              ]
+          },
+          {
+              "canonicalForm": "hongchung",
+              "list": [
+                  "Hong Chung",
+                  "Hong Chung",
+                  "Chung"
+              ]
+          },
+          {
+              "canonicalForm": "joohanlee",
+              "list": [
+                  "JooHan Lee",
+                  "Joohan Lee",
+                  "Lee"
+              ]
+          },
+          {
+              "canonicalForm": "yoonseokchoi",
+              "list": [
+                  "Yoonseok Choi",
+                  "Yoonseok Choi",
+                  "Choi"
+              ]
+          },
+          {
+              "canonicalForm": "tuanchau",
+              "list": [
+                  "Chau Quoc Tuan",
+                  "Tuan Chau",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "huyle",
+              "list": [
+                  "Le Quang Huy",
+                  "Huy Le",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "toannguyen",
+              "list": [
+                  "Nguyen Dinh Toan",
+                  "Toan Nguyen",
+                  "Toan"
+              ]
+          },
+          {
+              "canonicalForm": "namtran",
+              "list": [
+                  "Tran Thanh Nam",
+                  "Nam Tran",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "khangdong",
+              "list": [
+                  "Dong Van An Khang",
+                  "Khang Dong",
+                  "Khang"
+              ]
+          },
+          {
+              "canonicalForm": "jaegyoung",
+              "list": [
+                  "Jae Gyoung Son",
+                  "Jae Gyoung Son ",
+                  "Son"
+              ]
+          },
+          {
+              "canonicalForm": "duongnguyen",
+              "list": [
+                  "Nguyen Ngoc Duong",
+                  "Duong Nguyen",
+                  "Duong"
+              ]
+          },
+          {
+              "canonicalForm": "vanngo",
+              "list": [
+                  "Ngo Gia Van",
+                  "Van Ngo",
+                  "Van"
+              ]
+          },
+          {
+              "canonicalForm": "tungtn",
+              "list": [
+                  "Nguyen Thanh Tung",
+                  "Tung Nguyen",
+                  "Tung"
+              ]
+          },
+          {
+              "canonicalForm": "ducnguyen",
+              "list": [
+                  "Nguyen Quang Duc",
+                  "Duc Nguyen",
+                  "Duc"
+              ]
+          },
+          {
+              "canonicalForm": "doanqn",
+              "list": [
+                  "Nguyen Quoc Doan",
+                  "Doan Quoc Nguyen",
+                  "Doan"
+              ]
+          },
+          {
+              "canonicalForm": "trungnguyen",
+              "list": [
+                  "Nguyen Phuoc Trung",
+                  "Trung Nguyen",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "trieudhn",
+              "list": [
+                  "Nguyen Dinh Hai Trieu",
+                  "Trieu Dinh Hai Nguyen",
+                  "Trieu"
+              ]
+          },
+          {
+              "canonicalForm": "taido",
+              "list": [
+                  "Do Phuoc Tai",
+                  "Tai Do",
+                  "Tai"
+              ]
+          },
+          {
+              "canonicalForm": "quocvn",
+              "list": [
+                  "Nguyen Van Quoc",
+                  "Quoc Nguyen",
+                  "Quoc"
+              ]
+          },
+          {
+              "canonicalForm": "thainguyen",
+              "list": [
+                  "Nguyen Hong Thai",
+                  "Thai Nguyen",
+                  "Thai"
+              ]
+          },
+          {
+              "canonicalForm": "peterkim",
+              "list": [
+                  "Peter Kim",
+                  "Peter Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "tinhuynh",
+              "list": [
+                  "Huynh Trung Tin",
+                  "Tin Huynh",
+                  "Tin"
+              ]
+          },
+          {
+              "canonicalForm": "phuongle",
+              "list": [
+                  "Le Van Phuong",
+                  "Phuong Le",
+                  "Phuong"
+              ]
+          },
+          {
+              "canonicalForm": "SaeidK",
+              "list": [
+                  "Saeed Khademi",
+                  "Saeed Khademi",
+                  "Khademi"
+              ]
+          },
+          {
+              "canonicalForm": "nghiadn",
+              "list": [
+                  "Nguyen Duy Nghia",
+                  "Nghia Duy Nguyen",
+                  "Nghia"
+              ]
+          },
+          {
+              "canonicalForm": "thanhchiem",
+              "list": [
+                  "Chiem Nhat Thanh",
+                  "Thanh Chiem",
+                  "Thanh"
+              ]
+          },
+          {
+              "canonicalForm": "hientran",
+              "list": [
+                  "Tran Duc Hien",
+                  "Hien Tran",
+                  "Hien"
+              ]
+          },
+          {
+              "canonicalForm": "toantran",
+              "list": [
+                  "Tran Bao Toan",
+                  "Toan Tran",
+                  "Toan"
+              ]
+          },
+          {
+              "canonicalForm": "bacnguyen",
+              "list": [
+                  "Nguyen Duc Bac",
+                  "Bac Nguyen",
+                  "Bac"
+              ]
+          },
+          {
+              "canonicalForm": "igkoo",
+              "list": [
+                  "ILGU KOO",
+                  "ILGU KOO",
+                  "KOO"
+              ]
+          },
+          {
+              "canonicalForm": "chaehoon",
+              "list": [
+                  "Chae Hoon Lim",
+                  "Chae Hoon Lim ",
+                  "Lim"
+              ]
+          },
+          {
+              "canonicalForm": "Seungho",
+              "list": [
+                  "Seungho Park",
+                  "Seungho Park",
+                  "Park"
+              ]
+          },
+          {
+              "canonicalForm": "anhkhuong",
+              "list": [
+                  "Khuong Ngoc Anh",
+                  "Anh Khuong",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "gogo0912",
+              "list": [
+                  "Young-Kwon Kim",
+                  "Young-Kwon Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "yejin",
+              "list": [
+                  "Yejin Jun",
+                  "Yejin Jun",
+                  "Jun"
+              ]
+          },
+          {
+              "canonicalForm": "truonghd",
+              "list": [
+                  "Do Huy Truong",
+                  "Truong Huy Do",
+                  "Truong"
+              ]
+          },
+          {
+              "canonicalForm": "hieuvu",
+              "list": [
+                  "Vu Thanh Hieu",
+                  "Hieu Vu",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "tuancao",
+              "list": [
+                  "Cao Ngoc Tuan",
+                  "Tuan Cao",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "nammai",
+              "list": [
+                  "Mai Quoc Nam",
+                  "Nam Mai ",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "phudn",
+              "list": [
+                  "Nguyen Duy Phu",
+                  "Phu Duy Nguyen",
+                  "Phu"
+              ]
+          },
+          {
+              "canonicalForm": "trihn",
+              "list": [
+                  "Nguyen Huu Tri",
+                  "Tri Huu Nguyen",
+                  "Tri"
+              ]
+          },
+          {
+              "canonicalForm": "dongphan",
+              "list": [
+                  "Phan Thanh Dong",
+                  "Dong Phan",
+                  "Dong"
+              ]
+          },
+          {
+              "canonicalForm": "nhathp",
+              "list": [
+                  "Phan Hong Nhat",
+                  "Nhat Hong Phan",
+                  "Nhat"
+              ]
+          },
+          {
+              "canonicalForm": "duytn",
+              "list": [
+                  "Nguyen Tran Duy",
+                  "Duy Nguyen",
+                  "Duy"
+              ]
+          },
+          {
+              "canonicalForm": "khangvo",
+              "list": [
+                  "Vo Tri Khang",
+                  "Khang Vo",
+                  "Khang"
+              ]
+          },
+          {
+              "canonicalForm": "duyknp",
+              "list": [
+                  "Pham Nguyen Khac Duy",
+                  "Duy Pham",
+                  "Duy"
+              ]
+          },
+          {
+              "canonicalForm": "danhvo",
+              "list": [
+                  "Vo Cong Danh",
+                  "Danh Vo",
+                  "Danh"
+              ]
+          },
+          {
+              "canonicalForm": "phuongtctbn",
+              "list": [
+                  "Nguyen Tran Cao Thi Bich Phuong",
+                  "Phuong Tran Cao Thi Bich Nguyen",
+                  "Phuong"
+              ]
+          },
+          {
+              "canonicalForm": "thyquach",
+              "list": [
+                  "Quach Ngoc Thy",
+                  "Thy Quach",
+                  "Thy"
+              ]
+          },
+          {
+              "canonicalForm": "tinpham",
+              "list": [
+                  "Pham Le Viet Tin",
+                  "Tin Pham",
+                  "Tin"
+              ]
+          },
+          {
+              "canonicalForm": "hungvu",
+              "list": [
+                  "Vu Khanh Hung",
+                  "Hung Vu",
+                  "Hung"
+              ]
+          },
+          {
+              "canonicalForm": "giapham",
+              "list": [
+                  "Pham Luat Gia",
+                  "Gia Pham",
+                  "Gia"
+              ]
+          },
+          {
+              "canonicalForm": "nhanle",
+              "list": [
+                  "Le Hoang Nhan",
+                  "Nhan Le",
+                  "Nhan"
+              ]
+          },
+          {
+              "canonicalForm": "chido",
+              "list": [
+                  "Do Thi Kim Chi",
+                  "Chi Do",
+                  "Chi"
+              ]
+          },
+          {
+              "canonicalForm": "vyduong",
+              "list": [
+                  "Duong Nhat Vy",
+                  "Vy Duong",
+                  "Vy"
+              ]
+          },
+          {
+              "canonicalForm": "staradmin",
+              "list": [
+                  "Star Cluster Admin",
+                  "Star Cluster Admin",
+                  "Admin"
+              ]
+          },
+          {
+              "canonicalForm": "toanln",
+              "list": [
+                  "Nguyen Le Toan",
+                  "Toan Le Nguyen",
+                  "Toan"
+              ]
+          },
+          {
+              "canonicalForm": "huongto",
+              "list": [
+                  "To Thi Huong",
+                  "Huong To",
+                  "Huong"
+              ]
+          },
+          {
+              "canonicalForm": "trangttn",
+              "list": [
+                  "Nguyen Thi Thuy Trang",
+                  "Trang Thi Thuy Nguyen",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "trangntt",
+              "list": [
+                  "Nguyen Thuy Thao Trang",
+                  "Trang Thuy Thao Nguyen",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "locphan",
+              "list": [
+                  "Phan Huu Loc",
+                  "Loc Phan",
+                  "Loc"
+              ]
+          },
+          {
+              "canonicalForm": "joseph",
+              "list": [
+                  "Joseph Min",
+                  "Joseph Min",
+                  "Min"
+              ]
+          },
+          {
+              "canonicalForm": "truongnguyen",
+              "list": [
+                  "Nguyen Cong Truong",
+                  "Truong Nguyen",
+                  "Truong"
+              ]
+          },
+          {
+              "canonicalForm": "kanikumar",
+              "list": [
+                  "Chellapandi Kani Kumar",
+                  "Kani Kumar",
+                  "Kumar"
+              ]
+          },
+          {
+              "canonicalForm": "thuongtran",
+              "list": [
+                  "Tran Xuan Thuong",
+                  "Thuong Tran",
+                  "Thuong"
+              ]
+          },
+          {
+              "canonicalForm": "dungphan",
+              "list": [
+                  "Phan Quoc Dung",
+                  "Dung Phan",
+                  "Dung"
+              ]
+          },
+          {
+              "canonicalForm": "khoaduong",
+              "list": [
+                  "Duong Minh Khoa",
+                  "Khoa Duong",
+                  "Khoa"
+              ]
+          },
+          {
+              "canonicalForm": "minhdo",
+              "list": [
+                  "Do Anh Minh",
+                  "Minh Do",
+                  "Minh"
+              ]
+          },
+          {
+              "canonicalForm": "marokang",
+              "list": [
+                  "Maro Kang",
+                  "Maro Kang",
+                  "Kang"
+              ]
+          },
+          {
+              "canonicalForm": "vihuynh",
+              "list": [
+                  "Huynh Cong Vi",
+                  "Vi Huynh",
+                  "Vi"
+              ]
+          },
+          {
+              "canonicalForm": "alexbang",
+              "list": [
+                  "Alex Bang",
+                  "Alex Bang",
+                  "Bang"
+              ]
+          },
+          {
+              "canonicalForm": "phuchn",
+              "list": [
+                  "Nguyen Huu Phuc",
+                  "Phuc Huu Nguyen",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "thuctran",
+              "list": [
+                  "Tran Tri Thuc",
+                  "Thuc Tran",
+                  "Thuc"
+              ]
+          },
+          {
+              "canonicalForm": "kimbui",
+              "list": [
+                  "Bui Hoang Kim",
+                  "Kim Bui",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "duongduong",
+              "list": [
+                  "Duong Trung Duong",
+                  "Duong Duong",
+                  "Duong"
+              ]
+          },
+          {
+              "canonicalForm": "anhdang",
+              "list": [
+                  "Dang Thi Lan Anh",
+                  "Anh Dang",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "joykim",
+              "list": [
+                  "Joy Kim",
+                  "Joy Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "vyai",
+              "list": [
+                  "Ai Vy",
+                  "Vy Ai",
+                  "Vy"
+              ]
+          },
+          {
+              "canonicalForm": "nganhuynh",
+              "list": [
+                  "Huynh Kim Ngan",
+                  "Ngan Huynh",
+                  "Ngan"
+              ]
+          },
+          {
+              "canonicalForm": "thaodang",
+              "list": [
+                  "Dang Thi Phuong Thao",
+                  "Thao Dang",
+                  "Thao"
+              ]
+          },
+          {
+              "canonicalForm": "thuyttd",
+              "list": [
+                  "Doan Thi Thanh Thuy",
+                  "Thuy Thi Thanh Doan",
+                  "Thuy"
+              ]
+          },
+          {
+              "canonicalForm": "thutmn",
+              "list": [
+                  "Nguyen Thi Mai Thu",
+                  "Thu Thi Mai Nguyen",
+                  "Thu"
+              ]
+          },
+          {
+              "canonicalForm": "thudao",
+              "list": [
+                  "Dao Thi Minh Thu",
+                  "Thu Dao",
+                  "Thu"
+              ]
+          },
+          {
+              "canonicalForm": "suongduong",
+              "list": [
+                  "Duong Thu Suong",
+                  "Suong Duong",
+                  "Suong"
+              ]
+          },
+          {
+              "canonicalForm": "tuanbui",
+              "list": [
+                  "Bui Duc Tuan",
+                  "Tuan Bui",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "hiendt",
+              "list": [
+                  "Tran Dac Hien",
+                  "Hien Dac Tran",
+                  "Hien"
+              ]
+          },
+          {
+              "canonicalForm": "chienhoang",
+              "list": [
+                  "Hoang Van Chien",
+                  "Chien Hoang",
+                  "Chien"
+              ]
+          },
+          {
+              "canonicalForm": "namphan",
+              "list": [
+                  "Phan Van Nam",
+                  "Nam Phan",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "tiendau",
+              "list": [
+                  "Dau The Tien",
+                  "Tien Dau",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "LT01",
+              "list": [
+                  "Luong Trang",
+                  "aa",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "LT02",
+              "list": [
+                  "Luong trang",
+                  "bb",
+                  "trang"
+              ]
+          },
+          {
+              "canonicalForm": "hanhnt",
+              "list": [
+                  "Nguyen Hanh SD",
+                  "Hanh Nguyen SD",
+                  "SD"
+              ]
+          },
+          {
+              "canonicalForm": "anho",
+              "list": [
+                  "Ho Hoang An",
+                  "An Ho",
+                  "An"
+              ]
+          },
+          {
+              "canonicalForm": "Jaehyun",
+              "list": [
+                  "Jae Hyun Kim",
+                  "Jae Hyun Kim ",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "datnguyen",
+              "list": [
+                  "Nguyen Tien Dat",
+                  "Dat Nguyen",
+                  "Dat"
+              ]
+          },
+          {
+              "canonicalForm": "thoidao",
+              "list": [
+                  "Dao Sy Thoi",
+                  "Thoi Dao",
+                  "Thoi"
+              ]
+          },
+          {
+              "canonicalForm": "hienvo",
+              "list": [
+                  "Vo Thanh Hien",
+                  "Hien Vo",
+                  "Hien"
+              ]
+          },
+          {
+              "canonicalForm": "tuantruong",
+              "list": [
+                  "Truong Ngoc Tuan",
+                  "Tuan Truong",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "phongtn",
+              "list": [
+                  "Nguyen Tuan Phong",
+                  "Phong Tuan Nguyen",
+                  "Phong"
+              ]
+          },
+          {
+              "canonicalForm": "chrish",
+              "list": [
+                  "Christopher Hardwick",
+                  "Christopher Hardwick",
+                  "Hardwick"
+              ]
+          },
+          {
+              "canonicalForm": "binhnguyen",
+              "list": [
+                  "Nguyen Ngoc Binh",
+                  "Binh Nguyen",
+                  "Binh"
+              ]
+          },
+          {
+              "canonicalForm": "hapham",
+              "list": [
+                  "Pham Phuong Ha",
+                  "Ha Pham",
+                  "Ha"
+              ]
+          },
+          {
+              "canonicalForm": "spenseral",
+              "list": [
+                  "Spenser Alexander",
+                  "Spenser Alexander",
+                  "Alexander"
+              ]
+          },
+          {
+              "canonicalForm": "tienal",
+              "list": [
+                  "Le Anh Tien",
+                  "Tien Anh Le",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "thuyln",
+              "list": [
+                  "Nguyen Le Thuy",
+                  "Thuy Le Nguyen",
+                  "Thuy"
+              ]
+          },
+          {
+              "canonicalForm": "thaonguyen",
+              "list": [
+                  "Nguyen Thi Thu Thao",
+                  "Thao Nguyen",
+                  "Thao"
+              ]
+          },
+          {
+              "canonicalForm": "samuel",
+              "list": [
+                  "Samuel Yim",
+                  "Samuel Yim",
+                  "Yim"
+              ]
+          },
+          {
+              "canonicalForm": "aiho",
+              "list": [
+                  "Ho Nhu Kha Ai",
+                  "Ai Ho",
+                  "Ai"
+              ]
+          },
+          {
+              "canonicalForm": "hoangthai",
+              "list": [
+                  "Thai Huy Hoang",
+                  "Hoang Thai",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "anhtnn",
+              "list": [
+                  "Nguyen Thi Ngoc Anh",
+                  "Anh Thi Ngoc Nguyen",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "tientn",
+              "list": [
+                  "Nguyen Thanh Tien",
+                  "Tien Thanh Nguyen",
+                  "Tien"
+              ]
+          },
+          {
+              "canonicalForm": "quynhle",
+              "list": [
+                  "Le Ho Thanh Quynh",
+                  "Quynh Le",
+                  "Quynh"
+              ]
+          },
+          {
+              "canonicalForm": "tuyettt",
+              "list": [
+                  "Tran Thi Tuyet",
+                  "Tuyet Thi Tran",
+                  "Tuyet"
+              ]
+          },
+          {
+              "canonicalForm": "diemto",
+              "list": [
+                  "To Thi Kieu Diem",
+                  "Diem To",
+                  "Diem"
+              ]
+          },
+          {
+              "canonicalForm": "nhutrinh",
+              "list": [
+                  "Trinh Y Nhu",
+                  "Nhu Trinh",
+                  "Nhu"
+              ]
+          },
+          {
+              "canonicalForm": "haitruong",
+              "list": [
+                  "Truong Ngoc Hai",
+                  "Hai Truong",
+                  "Hai"
+              ]
+          },
+          {
+              "canonicalForm": "nhutnguyen",
+              "list": [
+                  "Nguyen Trong Nhut",
+                  "Nhut Nguyen",
+                  "Nhut"
+              ]
+          },
+          {
+              "canonicalForm": "thinhphan",
+              "list": [
+                  "Phan Hoang Thinh",
+                  "Thinh Phan",
+                  "Thinh"
+              ]
+          },
+          {
+              "canonicalForm": "kinhnguyen",
+              "list": [
+                  "Nguyen Trong Kinh",
+                  "Kinh Nguyen",
+                  "Kinh"
+              ]
+          },
+          {
+              "canonicalForm": "hieule",
+              "list": [
+                  "Le Canh Hieu",
+                  "Hieu Le",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "mina",
+              "list": [
+                  "Mina Jeon",
+                  "Mina Jeon",
+                  "Jeon"
+              ]
+          },
+          {
+              "canonicalForm": "xuannguyen",
+              "list": [
+                  "Nguyen Thi Yen Xuan",
+                  "Xuan Nguyen",
+                  "Xuan"
+              ]
+          },
+          {
+              "canonicalForm": "annguyen",
+              "list": [
+                  "Nguyen Phuoc An",
+                  "An Nguyen",
+                  "An"
+              ]
+          },
+          {
+              "canonicalForm": "hieudao",
+              "list": [
+                  "Dao Trung Hieu",
+                  "Hieu Dao",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "baotran",
+              "list": [
+                  "Tran Quoc Bao",
+                  "Bao Tran",
+                  "Bao"
+              ]
+          },
+          {
+              "canonicalForm": "thopham",
+              "list": [
+                  "Pham Thi Oanh Tho",
+                  "Tho Pham",
+                  "Tho"
+              ]
+          },
+          {
+              "canonicalForm": "trangdang",
+              "list": [
+                  "Dang Thi Huyen Trang",
+                  "Trang Dang",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "quanle",
+              "list": [
+                  "Le Hoang Quan",
+                  "Quan Le",
+                  "Quan"
+              ]
+          },
+          {
+              "canonicalForm": "phatduong",
+              "list": [
+                  "Duong Vi Phat",
+                  "Phat Duong",
+                  "Phat"
+              ]
+          },
+          {
+              "canonicalForm": "knkim",
+              "list": [
+                  "Ki Nam Kim",
+                  "Ki Nam Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "anhthenguyen",
+              "list": [
+                  "Nguyen The Anh",
+                  "Anh The Nguyen",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "khoa",
+              "list": [
+                  "Nguyen Luu Dang Khoa",
+                  "Khoa Nguyen",
+                  "Khoa"
+              ]
+          },
+          {
+              "canonicalForm": "nhannguyen",
+              "list": [
+                  "Nguyen Thanh Nhan",
+                  "Nhan Nguyen",
+                  "Nhan"
+              ]
+          },
+          {
+              "canonicalForm": "hoangtn",
+              "list": [
+                  "Nguyen Thanh Hoang",
+                  "Hoang Thanh Nguyen",
+                  "Hoang"
+              ]
+          },
+          {
+              "canonicalForm": "trungtn",
+              "list": [
+                  "Nguyen Thanh Trung",
+                  "Trung Thanh Nguyen",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "minhnguyen",
+              "list": [
+                  "Nguyen Nhat Hoang Minh",
+                  "Minh Nguyen",
+                  "Minh"
+              ]
+          },
+          {
+              "canonicalForm": "trungtringuyen",
+              "list": [
+                  "Nguyen Tri Trung",
+                  "Trung Tri Nguyen",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "minhluong",
+              "list": [
+                  "Luong Huu Minh",
+                  "Minh Luong",
+                  "Minh"
+              ]
+          },
+          {
+              "canonicalForm": "viennguyen",
+              "list": [
+                  "Nguyen Hoai Vien",
+                  "Vien Nguyen",
+                  "Vien"
+              ]
+          },
+          {
+              "canonicalForm": "tuanat",
+              "list": [
+                  "Tran Anh Tuan",
+                  "Tuan Anh Tran ",
+                  "Tuan"
+              ]
+          },
+          {
+              "canonicalForm": "thanhhn",
+              "list": [
+                  "Nguyen Huy Thanh",
+                  "Thanh Nguyen",
+                  "Thanh"
+              ]
+          },
+          {
+              "canonicalForm": "thaobui",
+              "list": [
+                  "Bui Thi Minh Thao",
+                  "Thao Bui",
+                  "Thao"
+              ]
+          },
+          {
+              "canonicalForm": "oanhdo",
+              "list": [
+                  "Do Kieu Oanh",
+                  "Oanh Do",
+                  "Oanh"
+              ]
+          },
+          {
+              "canonicalForm": "trangnguyen",
+              "list": [
+                  "Nguyen Thi Kim Trang",
+                  "Trang Nguyen",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "jhroh",
+              "list": [
+                  "Yoon Ho Roh",
+                  "Yoon Ho Roh",
+                  "Roh"
+              ]
+          },
+          {
+              "canonicalForm": "nhandn",
+              "list": [
+                  "Nguyen Duc Nhan",
+                  "Nhan Duc Nguyen",
+                  "Nhan"
+              ]
+          },
+          {
+              "canonicalForm": "viencao",
+              "list": [
+                  "Cao Ky Vien",
+                  "Vien Cao",
+                  "Vien"
+              ]
+          },
+          {
+              "canonicalForm": "huyphan",
+              "list": [
+                  "Phan Viet Huy",
+                  "Huy Phan",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "tranghmt",
+              "list": [
+                  "To Huynh Minh Trang",
+                  "Trang Huynh Minh To",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "baohoang",
+              "list": [
+                  "Hoang Trong Bao",
+                  "Bao Hoang",
+                  "Bao"
+              ]
+          },
+          {
+              "canonicalForm": "thetran",
+              "list": [
+                  "Tran Thanh The",
+                  "The Tran",
+                  "The"
+              ]
+          },
+          {
+              "canonicalForm": "congbui",
+              "list": [
+                  "Bui Thai Cong",
+                  "Cong Bui",
+                  "Cong"
+              ]
+          },
+          {
+              "canonicalForm": "maeda",
+              "list": [
+                  "Atsushi Maeda",
+                  "Atsushi Maeda",
+                  "Maeda"
+              ]
+          },
+          {
+              "canonicalForm": "trangtran",
+              "list": [
+                  "Tran Thi Huyen Trang",
+                  "Trang Tran",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "heidi",
+              "list": [
+                  "Hye-Ji LEE",
+                  "Heidi",
+                  "LEE"
+              ]
+          },
+          {
+              "canonicalForm": "huythanh",
+              "list": [
+                  "Thanh Ngoc Huy",
+                  "Huy Thanh",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "haidoan",
+              "list": [
+                  "Doan Quoc Hai",
+                  "Hai Doan",
+                  "Hai"
+              ]
+          },
+          {
+              "canonicalForm": "anhthn",
+              "list": [
+                  "Nguyen Thi Hoang Anh",
+                  "Anh Thi Hoang Nguyen",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "nganle",
+              "list": [
+                  "Le Kim Ngan",
+                  "Ngan Le",
+                  "Ngan"
+              ]
+          },
+          {
+              "canonicalForm": "baonguyen",
+              "list": [
+                  "Nguyen Manh Bao",
+                  "Bao Nguyen",
+                  "Bao"
+              ]
+          },
+          {
+              "canonicalForm": "phucdao",
+              "list": [
+                  "Dao Ngoc Phuc",
+                  "Phuc Dao",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "sojinkim",
+              "list": [
+                  "Sojin Kim",
+                  "Sojin Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "phuongluong",
+              "list": [
+                  "Luong Ha Phuong",
+                  "Phuong Luong",
+                  "Phuong"
+              ]
+          },
+          {
+              "canonicalForm": "markchoi",
+              "list": [
+                  "Mark Choi",
+                  "Mark Choi",
+                  "Choi"
+              ]
+          },
+          {
+              "canonicalForm": "nhiennguyen",
+              "list": [
+                  "Nguyen Thanh Nhien",
+                  "Nhien Nguyen",
+                  "Nhien"
+              ]
+          },
+          {
+              "canonicalForm": "leesong",
+              "list": [
+                  "Lee Song",
+                  "Lee Song",
+                  "Song"
+              ]
+          },
+          {
+              "canonicalForm": "jangwonkim",
+              "list": [
+                  "Jang Won Kim",
+                  "Jang Won Kim",
+                  "Kim"
+              ]
+          },
+          {
+              "canonicalForm": "hungmn",
+              "list": [
+                  "Nguyen Manh Hung",
+                  "Hung Manh Nguyen",
+                  "Hung"
+              ]
+          },
+          {
+              "canonicalForm": "huyngo",
+              "list": [
+                  "Ngo Quang Huy",
+                  "Huy Ngo",
+                  "Huy"
+              ]
+          },
+          {
+              "canonicalForm": "hungvn",
+              "list": [
+                  "Nguyen Van Hung",
+                  "Hung Van Nguyen",
+                  "Hung"
+              ]
+          },
+          {
+              "canonicalForm": "vitran",
+              "list": [
+                  "Tran Thi Thuy Vi",
+                  "Vi Tran",
+                  "Vi"
+              ]
+          },
+          {
+              "canonicalForm": "chuongta",
+              "list": [
+                  "Ta Pham Minh Chuong",
+                  "Chuong Ta",
+                  "Chuong"
+              ]
+          },
+          {
+              "canonicalForm": "chidoan",
+              "list": [
+                  "Doan Nguyen Minh Chi",
+                  "Chi Doan",
+                  "Chi"
+              ]
+          },
+          {
+              "canonicalForm": "phuclh",
+              "list": [
+                  "Le Hoang Phuc",
+                  "Phuc Le Hoang",
+                  "Phuc"
+              ]
+          },
+          {
+              "canonicalForm": "junkato",
+              "list": [
+                  "Jun Kato",
+                  "Jun Kato",
+                  "Kato"
+              ]
+          },
+          {
+              "canonicalForm": "haule",
+              "list": [
+                  "Le Van Hau",
+                  "Hau Le",
+                  "Hau"
+              ]
+          },
+          {
+              "canonicalForm": "laptran",
+              "list": [
+                  "Tran Dinh Lap",
+                  "Lap Tran",
+                  "Lap"
+              ]
+          },
+          {
+              "canonicalForm": "haduong",
+              "list": [
+                  "Duong Van Ha",
+                  "Ha Duong",
+                  "Ha"
+              ]
+          },
+          {
+              "canonicalForm": "trangphung",
+              "list": [
+                  "Phung Thi Trang",
+                  "Trang Phung",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "dungtran",
+              "list": [
+                  "Tran Thi Ngoc Dung",
+                  "Dung Tran",
+                  "Dung"
+              ]
+          },
+          {
+              "canonicalForm": "yoonhojang",
+              "list": [
+                  "Yoonho Jang",
+                  "Yoonho Jang",
+                  "Jang"
+              ]
+          },
+          {
+              "canonicalForm": "neysalazar",
+              "list": [
+                  "Ney Salazar",
+                  "Ney Salazar",
+                  "Salazar"
+              ]
+          },
+          {
+              "canonicalForm": "trangle",
+              "list": [
+                  "Le Thi Thuy Trang",
+                  "Trang Le",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "ghkim",
+              "list": [
+                  "Kim Goo Ho",
+                  "Kim Goo Ho",
+                  "Ho"
+              ]
+          },
+          {
+              "canonicalForm": "quangchu",
+              "list": [
+                  "Chu Van Quang",
+                  "Quang Chu",
+                  "Quang"
+              ]
+          },
+          {
+              "canonicalForm": "duytran",
+              "list": [
+                  "Tran Ngoc Duy",
+                  "Duy Tran",
+                  "Duy"
+              ]
+          },
+          {
+              "canonicalForm": "longdn",
+              "list": [
+                  "Nguyen Dang Long",
+                  "Long Nguyen",
+                  "Long"
+              ]
+          },
+          {
+              "canonicalForm": "khanghh",
+              "list": [
+                  "Hoang Huu Khang",
+                  "Khang Hoang",
+                  "Khang"
+              ]
+          },
+          {
+              "canonicalForm": "hiepnl",
+              "list": [
+                  "Luu Nghia Hiep",
+                  "Hiep Luu",
+                  "Hiep"
+              ]
+          },
+          {
+              "canonicalForm": "linhttn",
+              "list": [
+                  "Nguyen Thi Thu Linh",
+                  "Linh Nguyen",
+                  "Linh"
+              ]
+          },
+          {
+              "canonicalForm": "hoatt",
+              "list": [
+                  "Trinh Thai Hoa",
+                  "Hoa Trinh",
+                  "Hoa"
+              ]
+          },
+          {
+              "canonicalForm": "trungtbn",
+              "list": [
+                  "Nguyen Tran Bao Trung",
+                  "Trung Tran Bao Nguyen",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "hangto",
+              "list": [
+                  "To Minh Hang",
+                  "Hang To",
+                  "Hang"
+              ]
+          },
+          {
+              "canonicalForm": "anhtruong",
+              "list": [
+                  "Truong Minh Anh",
+                  "Anh Truong",
+                  "Anh"
+              ]
+          },
+          {
+              "canonicalForm": "nhavo",
+              "list": [
+                  "Vo Dinh Nha",
+                  "Nha Vo",
+                  "Nha"
+              ]
+          },
+          {
+              "canonicalForm": "doanluong",
+              "list": [
+                  "Luong Cong Doan",
+                  "Doan Luong",
+                  "Doan"
+              ]
+          },
+          {
+              "canonicalForm": "thoauong",
+              "list": [
+                  "Uong Thi Thoa",
+                  "Thoa Uong",
+                  "Thoa"
+              ]
+          },
+          {
+              "canonicalForm": "nam_vn",
+              "list": [
+                  "Nguyen Viet Nam",
+                  "Nam Nguyen",
+                  "Nam"
+              ]
+          },
+          {
+              "canonicalForm": "ninhnm",
+              "list": [
+                  "Mai Nhat Minh",
+                  "Ninh Mai",
+                  "Minh"
+              ]
+          },
+          {
+              "canonicalForm": "tammt",
+              "list": [
+                  "Truong Minh Tam",
+                  "Tam Truong",
+                  "Tam"
+              ]
+          },
+          {
+              "canonicalForm": "hieutt",
+              "list": [
+                  "Tran Thanh Hieu",
+                  "Hieu Thanh Tran",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "christie",
+              "list": [
+                  "Saghai Christie Fernando",
+                  "Christie",
+                  "Fernando"
+              ]
+          },
+          {
+              "canonicalForm": "locpham",
+              "list": [
+                  "Pham Huu Loc",
+                  "Loc Pham",
+                  "Loc"
+              ]
+          },
+          {
+              "canonicalForm": "hjjung",
+              "list": [
+                  "Eden Jeong",
+                  "Eden Jeong",
+                  "Jeong"
+              ]
+          },
+          {
+              "canonicalForm": "trangluong",
+              "list": [
+                  "Luong Thi Thuy Trang",
+                  "Trang Luong",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "hanhmai",
+              "list": [
+                  "Mai Huu Hanh",
+                  "Hanh Mai",
+                  "Hanh"
+              ]
+          },
+          {
+              "canonicalForm": "hieupt",
+              "list": [
+                  "Tran Phu Hieu",
+                  "Hieu Phu Tran",
+                  "Hieu"
+              ]
+          },
+          {
+              "canonicalForm": "trangha",
+              "list": [
+                  "Ha Pham Diem Trang",
+                  "Trang Ha",
+                  "Trang"
+              ]
+          },
+          {
+              "canonicalForm": "trungvu",
+              "list": [
+                  "Vu Quoc Trung",
+                  "Trung Vu",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "danhdong",
+              "list": [
+                  "Dong Quang Danh",
+                  "Danh Dong",
+                  "Danh"
+              ]
+          },
+          {
+              "canonicalForm": "nguyentran",
+              "list": [
+                  "Tran Quoc Nguyen",
+                  "Nguyen Tran",
+                  "Nguyen"
+              ]
+          },
+          {
+              "canonicalForm": "thinhnguyen",
+              "list": [
+                  "Nguyen Thai Thinh",
+                  "Thinh Nguyen",
+                  "Thinh"
+              ]
+          },
+          {
+              "canonicalForm": "ducngo",
+              "list": [
+                  "Ngo Hung Duc",
+                  "Duc Ngo",
+                  "Duc"
+              ]
+          },
+          {
+              "canonicalForm": "hungmp",
+              "list": [
+                  "Pham Minh Hung",
+                  "Hung Minh Pham",
+                  "Hung"
+              ]
+          },
+          {
+              "canonicalForm": "thinhpham",
+              "list": [
+                  "Pham Quang Thinh",
+                  "Thinh Pham",
+                  "Thinh"
+              ]
+          },
+          {
+              "canonicalForm": "nhantn",
+              "list": [
+                  "Nguyen Trong Nhan",
+                  "Nhan Trong Nguyen",
+                  "Nhan"
+              ]
+          },
+          {
+              "canonicalForm": "thanhln",
+              "list": [
+                  "Nguyen Lam Thanh",
+                  "Thanh Lam Nguyen",
+                  "Thanh"
+              ]
+          },
+          {
+              "canonicalForm": "khoainguyen",
+              "list": [
+                  "Nguyen Xuan Khoai",
+                  "Khoai Nguyen",
+                  "Khoai"
+              ]
+          },
+          {
+              "canonicalForm": "trungtruong",
+              "list": [
+                  "Truong Vo Huu Trung",
+                  "Trung Truong",
+                  "Trung"
+              ]
+          },
+          {
+              "canonicalForm": "thientruong",
+              "list": [
+                  "Truong Trung Thien",
+                  "Thien Truong",
+                  "Thien"
+              ]
+          }
+      ],
+      "roles": []
+  }
+  ],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [
+    {
+      "name": "get",
+      "mode": true,
+      "words": "show,check,take,give,get",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [
+    {
+        "pattern": "give me some information about {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "get the profile[s] of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "tell me about {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i want to know [more] about {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i would like to know more about {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "tell me the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "tell me the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "show [me] the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "show [me] {EmployeeName}['s] profile",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "show [me] {EmployeeName}'s information",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "show [me] the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "give me the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "give me the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "give me {EmployeeName}['s] profile",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "{EmployeeName}['s] profile",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "{EmployeeName}['s] information",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "can you tell me about {EmployeeName}[?]",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i wonder if i can know [more] about {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "how can i contact with {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "may i get {EmployeeName}['s] profile[?]",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "may i get the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "may i get some information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "may i get the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "may i get {EmployeeName}['s] information[?]",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "let's me know {EmployeeName}['s] profile",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "let's me know {EmployeeName}['s] information",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "let's me know the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "let's me know the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i need the information of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i need the profile of {EmployeeName}",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i need {EmployeeName}['s] profile",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "i need {EmployeeName}['s] information",
+        "intent": "dou.get.profiles"
+    },
+    {
+        "pattern": "how many project did {EmployeeName} attend?",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "how many project did {EmployeeName} has?",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "how many project does {EmployeeName} attend?",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "how many project does {EmployeeName} has?",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "i want to know about [all] {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "i want to know about {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "i would like to know about the information of [all] {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "please show me all {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "show me the information about all {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "check all {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "check {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "get [all] {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "give me [all] {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "give me {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "i need the information about {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "i need some information about {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "Can i get [all] {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "Can i get {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "please give me all {EmployeeName}['s] projects",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "please give me [all] {EmployeeName}['s] project",
+        "intent": "dou.get.projects"
+    },
+    {
+        "pattern": "How many tasks does {EmployeeName} have[?]",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "{EmployeeName}['s] task",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "Please show me [all] {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "Please show me {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "i want to know {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "I would you like to know {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "i need the information about {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "i need some information about {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "give me [all] {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "give me {EmployeeName}['s] task",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] task",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "get [all] {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "check all {EmployeeName}['s] tasks",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "check {EmployeeName}['s] task",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "how many tasks did {EmployeeName} attend?",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "how many tasks did {EmployeeName} has?",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "how many tasks does {EmployeeName} attend?",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "how many tasks does {EmployeeName} has?",
+        "intent": "dou.get.tasks"
+    },
+    {
+        "pattern": "How many expired tasks does {EmployeeName} have[?]",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "{EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "Please show me [all] {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "Please show me {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "i want to know {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "I would you like to know {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "i need the information about {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "i need some information about {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "give me [all] {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "give me {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] expired task",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "get [all] {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "check all {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "check {EmployeeName}['s] expired tasks",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "how many expired tasks did {EmployeeName} attend?",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "how many expired tasks did {EmployeeName} has?",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "how many expired tasks does {EmployeeName} attend?",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "how many expired tasks does {EmployeeName} has?",
+        "intent": "dou.get.expired.tasks"
+    },
+    {
+        "pattern": "How many annual vacation days does {EmployeeName} has[?]",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "How many annual vacation days do {EmployeeName} have[?]",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "Please show me {EmployeeName}['s] annual vacation days",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "show me {EmployeeName}['s] annual vacation days",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "current {EmployeeName}['s] annual vacation days",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "{EmployeeName}['s] annual vacation days",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "check {EmployeeName}['s] remaining annual leave days",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "get {EmployeeName}['s] remaining annual leave days.",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "how many leaves {EmployeeName} has remaining?",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "show me {EmployeeName}['s] remaining annual leave days.",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "get the annual vacation days of {EmployeeName}",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "get the leaves of {EmployeeName}",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "show me the leaves of {EmployeeName}",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "show me the annual vacation days of {EmployeeName}",
+        "intent": "dou.get.vacation.days"
+    },
+    {
+        "pattern": "i want to know about the remainning annual vacation days of {EmployeeName}",
+        "intent": "dou.get.vacation.days"
+    }
+],
+  "utterances": [
+    {
+        "text": "give me some information about Nguyen Ho Hai Trieu",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "get the profile of phuong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "tell me about khang dong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i want to know more about tran xuan thuong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i would like to know more about nguyen trong khiem",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "tell me the profile of phan thang dong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "tell me the information of dong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show me the profile of nguyen thanh huy",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show  me phu's profile",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show  van ngo's information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show me his information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show me her information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "show  me the information of Giang",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "give me the information of Ly Van Minh Ngoc",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "give me the profile of le van phuong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "give me Le Tien Hanh's profile",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "Le Van Kieu's profile",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "oanh's information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "can you tell me about Le Dac Cuong?",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i wonder if i can know  more about Le Van Son",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "how can i contact with phuc",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "may i get khoa 's profile ?",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "may i get the profile of phan van nam",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "may i get some information of bao",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "may i get the information of tran thai hoa",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "may i get Thao Doan 's information ?",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "let's me know phuong 's profile",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "let's me know tien 's information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "let's me know the information of nam",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "let's me know the profile of Pham Khanh Tan",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i need the information of Truong Duong",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i need the profile of Tung",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i need Lam 's profile",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "i need phong 's information",
+        "intent": "dou.get.profiles",
+        "entities": []
+    },
+    {
+        "text": "how many project did haong attend?",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "how many project did tu has?",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "how many project does tho attend?",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "how many project does hong has?",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "i want to know about  all minh 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "i want to know about Ngoc 's project",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "i would like to know about the information of  all thuy 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "please show me all Anh's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "show me the information about all phung 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "check all khanh 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "check Tran Van Hoang 's project",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "get all hai vu's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "get Le Duc Anh 's project",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "get hien tran 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "give me all Le Anh Tien's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "give me Nguyen Ho Hai Trieu's project",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "i need the information about nhan nguyen 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "i need some information about Nhut Vo's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "Can i get  all niem huynh's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "Can i get Tu Nguyen's project",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "please give me all Hang Ho 's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "please give me all Long Ly's projects",
+        "intent": "dou.get.projects",
+        "entities": []
+    },
+    {
+        "text": "How many tasks does Ut Tran have ?",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "Hanh Nguyen 's task",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "Please show me  all Tuan Tran's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "Please show me An 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "i want to know hau 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "I would you like to know thinh 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "i need the information about vu's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "i need some information about Nguyen Huu Tri 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "give me  all Ly Pham 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "give me Hien Le 's task",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "get Tien Duong's task",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "get Thai Nguyen's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "get  all Khoa Nguyen 's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "check all Bac Nguyen's tasks",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "check Tai Do's task",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many tasks did Nhut Trinh attend?",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many tasks did Lam Ton Phu has?",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many tasks does Huy Le attend?",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many tasks does Tung Nguyen has?",
+        "intent": "dou.get.tasks",
+        "entities": []
+    },
+    {
+        "text": "How many expired tasks does Kim Le have ?",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "Nghia 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "Please show me  all Chiem Nhat Thanh 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "Please show me Tran Duc Hien 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "i want to know Toan 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "I would you like to know Bac 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "i need the information about Tran Xuan Thuong 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "i need some information about Phan Quoc Dung 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "give me  all Duong Minh Khoa 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "give me Do Anh Minh 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "get Hoang Van Chien 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "get Phan Van Nam 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "get  all Dau The Tien 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "check all Luong Trang 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "check Tuyet 's expired tasks",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many expired tasks did Diem attend?",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many expired tasks did Nhu has?",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many expired tasks does Hai attend?",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "how many expired tasks does Nhut has?",
+        "intent": "dou.get.expired.tasks",
+        "entities": []
+    },
+    {
+        "text": "How many annual vacation days does Luong Huu Minh has ?",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "How many annual vacation days do Nguyen Hoai Vien have ?",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "Please show me Tran Anh Tuan 's annual vacation days",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "show me Nguyen Huy Thanh 's annual vacation days",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "current Bui Thi Minh Thao 's annual vacation days",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "Duy Tran 's annual vacation days",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "check Long Nguyen 's remaining annual leave days",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "get Khang Hoang 's remaining annual leave days.",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "how many leaves Hiep Luu has remaining?",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "show me Linh Nguyen 's remaining annual leave days.",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "get the annual vacation days of Hoa Trinh",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "get the leaves of Doan",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "show me the leaves of Thoa",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "show me the annual vacation days of Nam",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "i want to know about the remainning annual vacation days of Minh",
+        "intent": "dou.get.vacation.days",
+        "entities": []
+    },
+    {
+        "text": "change temperature to seventy two degrees",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "breezeway on please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "decrease temperature for me please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "dim kitchen lights to 25 .",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "fish pond off please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "illuminate please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "living room lamp on please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "living room lamps off please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "lock the doors for me please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "lower your volume",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "make camera 1 off please",
+        "intent": "None",
+        "entities": []
+    },
+    {
+        "text": "make some coffee",
+        "intent": "None",
+        "entities": []
+    }
+],
+  "settings": []
+}
